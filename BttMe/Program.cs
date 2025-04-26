@@ -6,7 +6,7 @@ builder.Services.AddHttpClient("nosyapi",
     client =>
     {
         client.BaseAddress = new Uri("https://www.nosyapi.com/apiv2/service/");
-        client.DefaultRequestHeaders.Add("Authorization","Bearer O0ZH0cwvAQkrrnwUc5jxf8puPrqwKwQK2IRhKtO3fA0LNqfqyFavq9CFddJc");
+        client.DefaultRequestHeaders.Add("Authorization","Bearer UrzatAfDdggLlNdzMSziK8MmNqxQO319qaj6VvbiBFWUjrokgiSIdMH83Ujz");
     });
 
 

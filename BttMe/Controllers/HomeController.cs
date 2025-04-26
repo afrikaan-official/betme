@@ -29,7 +29,12 @@ public class HomeController : Controller
     [HttpGet]
     public async Task<ViewResult> MatchDetail(int gameId)
     {
-            var response = await _httpClient.GetAsync($"bettable-matches/details?matchID={gameId}");
+        var response = await _httpClient.GetAsync($"bettable-matches/details?matchID={gameId}");
+
+        if ((int)response.StatusCode == 401)
+        {
+            return View("401");
+        }
 
         var matchDetailData = await response.Content.ReadAsStringAsync();
         //var matchDetailData = await System.IO.File.ReadAllTextAsync(Environment.CurrentDirectory + "/Data/detail.json");
