@@ -1,5 +1,5 @@
 ﻿@using BttMe.Data;
-@model MatchResponse;
+@model MatchListViewModel;
 
 @{
     ViewData["Title"] = "Home Page";
@@ -14,11 +14,12 @@
         <th scope="col">1</th>
         <th scope="col">X</th>
         <th scope="col">2</th>
+        <th scope="col">Diff</th>
     </tr>
     </thead>
     <tbody>
     @{
-        foreach (var m in Model.data)
+        foreach (var m in Model.MatchVMList)
         {
             <tr>
                 <th scope="row">@m.MatchID</th>
@@ -30,6 +31,10 @@
                 <td colspan="0">@m.HomeWin</td>
                 <td colspan="0">@m.Draw</td>
                 <td colspan="0">@m.AwayWin</td>
+                <td colspan="0">
+                    <button type="button"
+                            class="btn @(m.Diff < 0.75 ? "btn-success" : "btn-danger")">@m.Diff.Value.ToString("F3")</button>
+                </td>
             </tr>
         }
     }
