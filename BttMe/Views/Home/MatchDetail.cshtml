@@ -1,0 +1,48 @@
+﻿@using BttMe.Data;
+@model MatchDetailViewModel;
+
+@{
+    ViewData["Title"] = Model.MatchId;
+}
+
+<div class="container">
+    <h3>
+        <span>
+            Ilk yari farki: @Model.FirstHalfDiff.ToString("F3")
+        </span>
+    </h3>
+</div>
+
+<table class="table table-bordered @(Model.IsValid ? "table-success" : "table-danger") table-sm">
+    <thead>
+    <tr>
+        <th scope="col">Match Id</th>
+        <th scope="col">DateTime</th>
+        <th scope="col">Match</th>
+        <th scope="col">IY - 1</th>
+        <th scope="col">IY - X</th>
+        <th scope="col">IY - 2</th>
+        <th scope="col">En çok gol 1. yarı</th>
+        <th scope="col">En çok gol 2. yarı</th>
+    </tr>
+    </thead>
+    <tbody>
+    @{
+        <tr>
+            <th scope="row">@Model.MatchId</th>
+            <td>@Model.GameDate</td>
+            <td class="match-name">
+                <img class="league-flag" src="@Model.HomeIcon"/>@Model.Team1
+                -
+                <img class="league-flag" src="@Model.AwayIcon"/>@Model.Team2
+            </td>
+            <td colspan="0">@Model.FirstHalfGoals[0].odd</td>
+            <td colspan="0">@Model.FirstHalfGoals[1].odd</td>
+            <td colspan="0">@Model.FirstHalfGoals[2].odd</td>
+
+            <td colspan="0">@Model.MostGoalHalf[0].odd</td>
+            <td colspan="0">@Model.MostGoalHalf[1].odd</td>
+        </tr>
+    }
+    </tbody>
+</table>

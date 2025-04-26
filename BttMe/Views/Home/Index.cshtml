@@ -1,0 +1,37 @@
+﻿@using BttMe.Data;
+@model MatchResponse;
+
+@{
+    ViewData["Title"] = "Home Page";
+}
+
+<table class="table table-bordered table-sm">
+    <thead>
+    <tr>
+        <th scope="col">Match Id</th>
+        <th scope="col">DateTime</th>
+        <th scope="col">Match</th>
+        <th scope="col">1</th>
+        <th scope="col">X</th>
+        <th scope="col">2</th>
+    </tr>
+    </thead>
+    <tbody>
+    @{
+        foreach (var m in Model.data)
+        {
+            <tr>
+                <th scope="row">@m.MatchID</th>
+                <td>@m.DateTime</td>
+                <td class="match-name">
+                    <img class="league-flag" src="@m.LeagueFlag"/>
+                    @Html.ActionLink($"{m.Team1}-{m.Team2}", "MatchDetail", "Home", routeValues: new { gameId = m.MatchID })
+                </td>
+                <td colspan="0">@m.HomeWin</td>
+                <td colspan="0">@m.Draw</td>
+                <td colspan="0">@m.AwayWin</td>
+            </tr>
+        }
+    }
+    </tbody>
+</table>

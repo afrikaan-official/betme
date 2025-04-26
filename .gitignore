@@ -1,0 +1,90 @@
+## Build sonuçları
+bin/
+obj/
+
+## User-specific dosyalar
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+## VS Code
+.vscode/
+
+## VS for Mac
+*.csproj.user
+
+## JetBrains Rider / Resharper / dotTrace / dotMemory
+.idea/
+*.sln.iml
+*.DotSettings
+*.DotSettings.user
+
+## DotCover
+*.dotCover
+
+## Temporary dosyalar
+*.log
+*.tmp
+*.temp
+
+## Publish çıktıları
+.publish/
+
+## Paketler
+*.nupkg
+*.snupkg
+# Eğer paketleri localde tutuyorsan şunu kaldır:
+# /packages/
+
+## Entity Framework Migrations snapshot dosyası
+Migrations/
+
+## Generated dosyalar (bazı tool'lar üretir)
+Generated_Code/
+
+## Config dışı secrets
+secrets.json
+
+## Windows dosyaları
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+## MacOS dosyaları
+.DS_Store
+
+## Linux dosyaları
+*.swp
+
+## Test sonuçları
+TestResults/
+
+## Global JSON
+global.json
+
+## Npm / Yarn paketleri (frontend projeleri için)
+node_modules/
+
+## Yarn
+.yarn/
+.pnp.*
+
+## Environment dosyaları
+.env
+.env.*
+
+## Coverage raporları
+coverage/
+*.lcov
+
+## Docker
+docker-compose.override.yml
+
+## Local cache / config dosyaları
+*.cache
+*.config
+
+## Localhost SSL dosyaları
+*.pfx
+*.p12
