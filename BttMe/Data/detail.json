@@ -1,1 +1,2282 @@
-{"status":"success","message":"ok","messageTR":"ok","systemTime":1745664865,"endpoint":"bettable-matches\/details","rowCount":1,"creditUsed":1,"data":[{"MatchID":48747,"Date":"2025-04-26","Time":"14:00:00","DateTime":"2025-04-26 14:00:00","LeagueCode":"DE","League":"Almanya 2. Bundesliga","LeagueFlag":"https:\/\/www.nosycdn.com\/api\/bets\/league\/flag\/de.png","Country":"DE","Type":1,"Teams":"Paderborn - Elversberg","Team1":"Paderborn","Team2":"Elversberg","Team1Logo":"https:\/\/www.nosycdn.com\/api\/bets\/teams\/paderborn.png","Team2Logo":"https:\/\/www.nosycdn.com\/api\/bets\/teams\/elversberg.png","MB":1,"Result":0,"GameResult":0,"LiveStatus":1,"BetCount":320,"HomeWin":1.95,"Draw":3.51,"AwayWin":3.01,"Under25":2.22,"Over25":1.47,"gameType":["Kim Kazan\u0131r","Alt\/\u00dcst","Kombo","Goller","Skor","Korner\/Kart","Oyuncu","\u00d6zel","Di\u011fer"],"Bets":[{"gameID":1605019,"matchID":48747,"gameName":"Alt\/\u00dcst 4.5","gameDetails":"Kar\u015f\u0131la\u015fmada at\u0131lacak toplam gol\u00fcn tahmin edildi\u011fi oyun t\u00fcr\u00fcd\u00fcr.","type":"Alt\/\u00dcst","odds":[{"gameID":1605019,"odd":3.99,"value":"\u00dcst"},{"gameID":1605019,"odd":1.14,"value":"Alt"}]},{"gameID":1605020,"matchID":48747,"gameName":"Deplasman Alt\/\u00dcst 2.5","gameDetails":"Kar\u015f\u0131la\u015fmada deplasman tak\u0131m\u0131n\u0131n toplam gol say\u0131s\u0131n\u0131n tahmin edildi\u011fi oyun t\u00fcr\u00fcd\u00fcr.","type":"Alt\/\u00dcst","odds":[{"gameID":1605020,"odd":5.05,"value":"\u00dcst"},{"gameID":1605020,"odd":1.08,"value":"Alt"}]},{"gameID":1605021,"matchID":48747,"gameName":"Ma\u00e7 Sonucu","gameDetails":"Kar\u015f\u0131la\u015fmay\u0131 hangi tak\u0131m\u0131n kazanaca\u011f\u0131n\u0131n tahminine dayal\u0131 oyun t\u00fcr\u00fcd\u00fcr.","type":"Kim Kazan\u0131r","odds":[{"gameID":1605021,"odd":3.01,"value":"2"},{"gameID":1605021,"odd":3.51,"value":"0"},{"gameID":1605021,"odd":1.95,"value":"1"}]},{"gameID":1605022,"matchID":48747,"gameName":"\u00c7ifte \u015eans","gameDetails":"Hangi tak\u0131m\u0131n ma\u00e7tan galibiyet veya beraberlikle ayr\u0131laca\u011f\u0131n\u0131n tahmin edildi\u011fi oyun t\u00fcr\u00fcd\u00fcr.","type":"Kim Kazan\u0131r","odds":[{"gameID":1605022,"odd":1.38,"value":"0 ve 2"},{"gameID":1605022,"odd":1.1,"value":"1 ve 2"},{"gameID":1605022,"odd":1.15,"value":"1 ve 0"}]},{"gameID":1605023,"matchID":48747,"gameName":"\u0130lk Yar\u0131 Sonucu ve Alt\u0131\/\u00dcst\u00fc 1.5","gameDetails":"Hem ilk yar\u0131 sonucunun hem de ilk yar\u0131da at\u0131lacak toplam gol say\u0131s\u0131n\u0131n belirlenen say\u0131dan daha az veya daha fazla olaca\u011f\u0131n\u0131n tahmininin yap\u0131ld\u0131\u011f\u0131 oyun t\u00fcr\u00fcd\u00fcr.","type":"Kim Kazan\u0131r,Alt\/\u00dcst,Kombo","odds":[{"gameID":1605023,"odd":7.57,"value":"2 ve \u00dcst"},{"gameID":1605023,"odd":4.78,"value":"1 ve \u00dcst"},{"gameID":1605023,"odd":6.02,"value":"0 ve \u00dcst"},{"gameID":1605023,"odd":5.43,"value":"2 ve Alt"},{"gameID":1605023,"odd":3.24,"value":"0 ve Alt"},{"gameID":1605023,"odd":4.23,"value":"1 ve Alt"}]},{"gameID":1605024,"matchID":48747,"gameName":"\u0130lk Yar\u0131 \/ Ma\u00e7 Sonucu","gameDetails":"Kar\u015f\u0131la\u015fman\u0131n ilk yar\u0131s\u0131n\u0131 ve ma\u00e7\u0131n tamam\u0131n\u0131 \u00f6nde bitirecek tak\u0131m\u0131n tahmin edildi\u011fi oyun t\u00fcr\u00fcd\u00fcr.","type":"Kim Kazan\u0131r","odds":[{"gameID":1605024,"odd":13.85,"value":"2\/0"},{"gameID":1605024,"odd":7.67,"value":"0\/2"},{"gameID":1605024,"odd":23.25,"value":"2\/1"},{"gameID":1605024,"odd":5.92,"value":"0\/0"},{"gameID":1605024,"odd":4.98,"value":"2\/2"},{"gameID":1605024,"odd":5.52,"value":"0\/1"},{"gameID":1605024,"odd":13.3,"value":"1\/0"},{"gameID":1605024,"odd":30.5,"value":"1\/2"},{"gameID":1605024,"odd":3,"value":"1\/1"}]},{"gameID":1605025,"matchID":48747,"gameName":"\u0130lk Yar\u0131 Sonucu ve \u0130lk Yar\u0131 Kar\u015f\u0131l\u0131kl\u0131 Gol","gameDetails":"Hem kar\u015f\u0131la\u015fman\u0131n ilk yar\u0131s\u0131n\u0131n nas\u0131l sonu\u00e7lanaca\u011f\u0131n\u0131n, hem de kar\u015f\u0131la\u015fman\u0131n ilk yar\u0131s\u0131nda her iki tak\u0131m\u0131n da gol at\u0131p atamayaca\u011f\u0131n\u0131n tahmin edildi\u011fi oyun t\u00fcr\u00fcd\u00fcr.","type":"Kim Kazan\u0131r,Kombo,Goller","odds":[{"gameID":1605025,"odd":3.22,"value":"0 ve Yok"},{"gameID":1605025,"odd":16.05,"value":"2 ve Var"},{"gameID":1605025,"odd":3.94,"value":"2 ve Yok"},{"gameID":1605025,"odd":5.97,"value":"0 ve Var"},{"gameID":1605025,"odd":2.8,"value":"1 ve Yok"},{"gameID":1605025,"odd":11.65,"value":"1 ve Var"}]},{"gameID":1605026,"matchID":48747,"gameName":"Ev Sahibi Gol Yemeden Kazan\u0131r","gameDetails":"Ev sahibi ekibin kar\u015f\u0131la\u015fmay\u0131 gol yemeden kazan\u0131p kazanamayaca\u011f\u0131n\u0131n tahmin edildi\u011fi oyun t\u00fcr\u00fcd\u00fcr.","type":"Goller,Di\u011fer","odds":[{"gameID":1605026,"odd":1.07,"value":"Hay\u0131r"},{"gameID":1605026,"odd":3.28,"value":"Evet"}]},{"gameID":1605027,"matchID":48747,"gameName":"Alt\/\u00dcst 3.5","gameDetails":"Kar\u015f\u0131la\u015fmada at\u0131lacak toplam gol\u00fcn tahmin edildi\u011fi oyun t\u00fcr\u00fcd\u00fcr.","type":"Alt\/\u00dcst","odds":[{"gameID":1605027,"odd":2.25,"value":"\u00dcst"},{"gameID":1605027,"odd":1.45,"value":"Alt"}]},{"gameID":1605028,"matchID":48747,"gameName":"Ev Sahibi Yar\u0131 Kazan\u0131r","gameDetails":"Ev sahibi tak\u0131m\u0131n ma\u00e7\u0131n birinci ya da ikinci yar\u0131s\u0131nda rakibinden daha fazla gol ataca\u011f\u0131n\u0131n tahmin edildi\u011fi oyun t\u00fcr\u00fcd\u00fcr. \u0130kinci yar\u0131 ba\u015flang\u0131c\u0131nda skor 0-0 say\u0131l\u0131r.","type":"Di\u011fer","odds":[{"gameID":1605028,"odd":1.45,"value":"Evet"},{"gameID":1605028,"odd":2.26,"value":"Hay\u0131r"}]},{"gameID":1605029,"matchID":48747,"gameName":"Kar\u015f\u0131l\u0131kl\u0131 Gol","gameDetails":"Kar\u015f\u0131la\u015fmada her iki tak\u0131m\u0131n da gol bulmas\u0131na y\u00f6nelik tahmin yap\u0131lan oyun t\u00fcr\u00fcd\u00fcr.","type":"Goller","odds":[{"gameID":1605029,"odd":2.34,"value":"Yok"},{"gameID":1605029,"odd":1.43,"value":"Var"}]},{"gameID":1605030,"matchID":48747,"gameName":"Deplasman Her \u0130ki Yar\u0131y\u0131 Kazan\u0131r","gameDetails":"Deplasman ekibinin her iki yar\u0131y\u0131 da kazan\u0131p kazanamayaca\u011f\u0131na y\u00f6nelik tahmin yap\u0131lan oyun t\u00fcr\u00fcd\u00fcr.","type":"Kim Kazan\u0131r,Di\u011fer","odds":[{"gameID":1605030,"odd":null,"value":"Hay\u0131r"},{"gameID":1605030,"odd":10.35,"value":"Evet"}]},{"gameID":1605031,"matchID":48747,"gameName":"\u0130lk Yar\u0131 Alt\/\u00dcst 1.5","gameDetails":"Kar\u015f\u0131la\u015fman\u0131n ilk yar\u0131s\u0131nda at\u0131lacak toplam gol\u00fcn tahmin edildi\u011fi oyun t\u00fcr\u00fcd\u00fcr.","type":"Alt\/\u00dcst","odds":[{"gameID":1605031,"odd":2.15,"value":"\u00dcst"},{"gameID":1605031,"odd":1.5,"value":"Alt"}]},{"gameID":1605032,"matchID":48747,"gameName":"Handikapl\u0131 Ma\u00e7 Sonucu -1","gameDetails":"Tak\u0131mlardan birinin say\u0131s\u0131 belirlenen kadar golle ma\u00e7a \u00f6nde ba\u015flad\u0131\u011f\u0131 say\u0131l\u0131r. Bu durum g\u00f6z \u00f6n\u00fcnde bulundurularak ma\u00e7 sonucunun tahmin edildi\u011fi oyun t\u00fcr\u00fcd\u00fcr.","type":"Kim Kazan\u0131r","odds":[{"gameID":1605032,"odd":3.27,"value":"0"},{"gameID":1605032,"odd":1.44,"value":"2"},{"gameID":1605032,"odd":2.81,"value":"1"}]},{"gameID":1605033,"matchID":48747,"gameName":"Deplasman Hangi Yar\u0131da Daha Fazla Gol Atar","gameDetails":"Deplasman ekibinin kar\u015f\u0131la\u015fmada hangi yar\u0131da daha fazla gol ataca\u011f\u0131na y\u00f6nelik tahmin yap\u0131lan oyun t\u00fcr\u00fcd\u00fcr.","type":"Goller","odds":[{"gameID":1605033,"odd":2.47,"value":"2."},{"gameID":1605033,"odd":2.33,"value":"E\u015fit"},{"gameID":1605033,"odd":3.37,"value":"1."}]},{"gameID":1605034,"matchID":48747,"gameName":"Alt\/\u00dcst 1.5","gameDetails":"Kar\u015f\u0131la\u015fmada at\u0131lacak toplam gol\u00fcn tahmin edildi\u011fi oyun t\u00fcr\u00fcd\u00fcr.","type":"Alt\/\u00dcst","odds":[{"gameID":1605034,"odd":1.09,"value":"\u00dcst"},{"gameID":1605034,"odd":4.62,"value":"Alt"}]},{"gameID":1605035,"matchID":48747,"gameName":"Ev Sahibi Alt\/\u00dcst 0.5","gameDetails":"Kar\u015f\u0131la\u015fmada ev sahibi tak\u0131m\u0131n toplam gol say\u0131s\u0131n\u0131n tahmin edildi\u011fi oyun t\u00fcr\u00fcd\u00fcr.","type":"Alt\/\u00dcst","odds":[{"gameID":1605035,"odd":1.09,"value":"\u00dcst"},{"gameID":1605035,"odd":4.78,"value":"Alt"}]},{"gameID":1605036,"matchID":48747,"gameName":"\u0130lk Yar\u0131\/Ma\u00e7 Sonucu Skorlar\u0131","gameDetails":"\u0130lk yar\u0131 ve ma\u00e7 sonucu skorunun tahmin edildi\u011fi oyun t\u00fcr\u00fcd\u00fcr.","type":"Skor","odds":[{"gameID":1605036,"odd":84,"value":"0-3 4+"},{"gameID":1605036,"odd":22.3,"value":"1-2 4+"},{"gameID":1605036,"odd":13,"value":"4+ 4+"},{"gameID":1605036,"odd":84,"value":"2-1 2-1"},{"gameID":1605036,"odd":93,"value":"0-3 0-3"},{"gameID":1605036,"odd":93,"value":"1-2 1-2"},{"gameID":1605036,"odd":17.65,"value":"2-1 4+"},{"gameID":1605036,"odd":93,"value":"3-0 3-0"},{"gameID":1605036,"odd":27,"value":"0-2 4+"},{"gameID":1605036,"odd":93,"value":"0-2 1-2"},{"gameID":1605036,"odd":11.15,"value":"1-1 4+"},{"gameID":1605036,"odd":93,"value":"0-2 0-3"},{"gameID":1605036,"odd":93,"value":"0-2 0-2"},{"gameID":1605036,"odd":46.5,"value":"1-1 1-2"},{"gameID":1605036,"odd":32.5,"value":"1-1 1-1"},{"gameID":1605036,"odd":37,"value":"1-1 2-1"},{"gameID":1605036,"odd":25,"value":"0-1 1-1"},{"gameID":1605036,"odd":16.75,"value":"2-0 4+"},{"gameID":1605036,"odd":56,"value":"2-0 3-0"},{"gameID":1605036,"odd":65,"value":"2-0 2-1"},{"gameID":1605036,"odd":56,"value":"2-0 2-0"},{"gameID":1605036,"odd":17.65,"value":"0-1 4+"},{"gameID":1605036,"odd":42,"value":"3-0 4+"},{"gameID":1605036,"odd":46.5,"value":"0-1 2-1"},{"gameID":1605036,"odd":37,"value":"0-1 1-2"},{"gameID":1605036,"odd":20.45,"value":"0-0 0-1"},{"gameID":1605036,"odd":13.95,"value":"1-0 4+"},{"gameID":1605036,"odd":93,"value":"0-1 0-3"},{"gameID":1605036,"odd":37,"value":"0-1 0-2"},{"gameID":1605036,"odd":28,"value":"0-1 0-1"},{"gameID":1605036,"odd":28,"value":"1-0 2-1"},{"gameID":1605036,"odd":22.3,"value":"1-0 2-0"},{"gameID":1605036,"odd":46.5,"value":"0-0 2-1"},{"gameID":1605036,"odd":42,"value":"1-0 3-0"},{"gameID":1605036,"odd":65,"value":"1-0 1-2"},{"gameID":1605036,"odd":20.45,"value":"0-0 1-1"},{"gameID":1605036,"odd":28,"value":"0:0 4+"},{"gameID":1605036,"odd":24.2,"value":"1-0 1-1"},{"gameID":1605036,"odd":21.4,"value":"1-0 1-0"},{"gameID":1605036,"odd":56,"value":"0-0 1-2"},{"gameID":1605036,"odd":93,"value":"0-0 0-3"},{"gameID":1605036,"odd":46.5,"value":"0-0 0-2"},{"gameID":1605036,"odd":93,"value":"0-0 3-0"},{"gameID":1605036,"odd":13.95,"value":"0-0 0-0"},{"gameID":1605036,"odd":32.5,"value":"0-0 2-0"},{"gameID":1605036,"odd":16.75,"value":"0-0 1-0"}]},{"gameID":1605037,"matchID":48747,"gameName":"Handikapl\u0131 Ma\u00e7 Sonucu -2","gameDetails":"Tak\u0131mlardan birinin say\u0131s\u0131 belirlenen kadar golle ma\u00e7a \u00f6nde ba\u015flad\u0131\u011f\u0131 say\u0131l\u0131r. Bu durum g\u00f6z \u00f6n\u00fcnde bulundurularak ma\u00e7 sonucunun tahmin edildi\u011fi oyun t\u00fcr\u00fcd\u00fcr.","type":"Kim Kazan\u0131r","odds":[{"gameID":1605037,"odd":1.09,"value":"2"},{"gameID":1605037,"odd":5.11,"value":"1"},{"gameID":1605037,"odd":4.12,"value":"0"}]},{"gameID":1605038,"matchID":48747,"gameName":"\u0130lk Yar\u0131 \u00c7ifte \u015eans","gameDetails":"Hangi tak\u0131m\u0131n ma\u00e7\u0131n ilk yar\u0131s\u0131ndan galibiyet veya beraberlikle ayr\u0131laca\u011f\u0131n\u0131n tahmin edildi\u011fi oyun t\u00fcr\u00fcd\u00fcr.","type":"Kim Kazan\u0131r","odds":[{"gameID":1605038,"odd":1.32,"value":"0 ve 2"},{"gameID":1605038,"odd":1.38,"value":"1 ve 2"},{"gameID":1605038,"odd":1.17,"value":"1 ve 0"}]},{"gameID":1605039,"matchID":48747,"gameName":"Ev Sahibi \u0130lk Yar\u0131 Alt\u0131\/\u00dcst\u00fc 0.5","gameDetails":"Ev sahibi tak\u0131m\u0131n ilk yar\u0131da ataca\u011f\u0131 gole y\u00f6nelik oynanan markettir.","type":"Alt\/\u00dcst","odds":[{"gameID":1605039,"odd":1.64,"value":"\u00dcst"},{"gameID":1605039,"odd":1.92,"value":"Alt"}]},{"gameID":1605040,"matchID":48747,"gameName":"Ev Sahibi Alt\/\u00dcst 1.5","gameDetails":"Kar\u015f\u0131la\u015fmada ev sahibi tak\u0131m\u0131n toplam gol say\u0131s\u0131n\u0131n tahmin edildi\u011fi oyun t\u00fcr\u00fcd\u00fcr.","type":"Alt\/\u00dcst","odds":[{"gameID":1605040,"odd":1.68,"value":"\u00dcst"},{"gameID":1605040,"odd":1.86,"value":"Alt"}]},{"gameID":1605041,"matchID":48747,"gameName":"Handikapl\u0131 Ma\u00e7 Sonucu 1","gameDetails":"Tak\u0131mlardan birinin say\u0131s\u0131 belirlenen kadar golle ma\u00e7a \u00f6nde ba\u015flad\u0131\u011f\u0131 say\u0131l\u0131r. Bu durum g\u00f6z \u00f6n\u00fcnde bulundurularak ma\u00e7 sonucunun tahmin edildi\u011fi oyun t\u00fcr\u00fcd\u00fcr.","type":"Kim Kazan\u0131r","odds":[{"gameID":1605041,"odd":4.58,"value":"2"},{"gameID":1605041,"odd":3.74,"value":"0"},{"gameID":1605041,"odd":1.15,"value":"1"}]},{"gameID":1605042,"matchID":48747,"gameName":"Ma\u00e7 Skoru","gameDetails":"Ma\u00e7 skorunun tahmin edildi\u011fi oyun t\u00fcr\u00fcd\u00fcr. Di\u011fer se\u00e7ene\u011fi, ma\u00e7 skoru i\u00e7in a\u00e7\u0131lan bahisler i\u00e7erisinde yer almayan t\u00fcm skorlar\u0131 kapsar. Ayn\u0131 zamanda taraflar\u0131n toplamda 7 ve \u00fczeri gole ula\u015faca\u011f\u0131n\u0131 ifade eder.","type":"Skor","odds":[{"gameID":1605042,"odd":16.4,"value":"di\u011fer"},{"gameID":1605042,"odd":140,"value":"Dep 6:0"},{"gameID":1605042,"odd":140,"value":"Dep 5:1"},{"gameID":1605042,"odd":140,"value":"Dep 5:0"},{"gameID":1605042,"odd":68,"value":"Dep 4:2"},{"gameID":1605042,"odd":60,"value":"Dep 4:1"},{"gameID":1605042,"odd":105,"value":"Dep 4:0"},{"gameID":1605042,"odd":21.05,"value":"Dep 3:1"},{"gameID":1605042,"odd":23.7,"value":"Dep 3:2"},{"gameID":1605042,"odd":37,"value":"Dep 3:0"},{"gameID":1605042,"odd":9.86,"value":"Dep 2:1"},{"gameID":1605042,"odd":17.35,"value":"Dep 2:0"},{"gameID":1605042,"odd":12.15,"value":"Dep 1:0"},{"gameID":1605042,"odd":14.15,"value":"0:0"},{"gameID":1605042,"odd":36,"value":"3:3"},{"gameID":1605042,"odd":9.95,"value":"2:2"},{"gameID":1605042,"odd":18.45,"value":"Ev 3:2"},{"gameID":1605042,"odd":6.24,"value":"1:1"},{"gameID":1605042,"odd":140,"value":"Ev 6:0"},{"gameID":1605042,"odd":80,"value":"Ev 5:1"},{"gameID":1605042,"odd":110,"value":"Ev 5:0"},{"gameID":1605042,"odd":29,"value":"Ev 4:1"},{"gameID":1605042,"odd":41.5,"value":"Ev 4:2"},{"gameID":1605042,"odd":39.5,"value":"Ev 4:0"},{"gameID":1605042,"odd":12.9,"value":"Ev 3:1"},{"gameID":1605042,"odd":17.8,"value":"Ev 3:0"},{"gameID":1605042,"odd":7.75,"value":"Ev 2:1"},{"gameID":1605042,"odd":10.65,"value":"Ev 2:0"},{"gameID":1605042,"odd":9.49,"value":"Ev 1:0"}]},{"gameID":1605043,"matchID":48747,"gameName":"Ev Sahibi Her \u0130ki Yar\u0131y\u0131 Kazan\u0131r","gameDetails":"Ev sahibi ekibin her iki yar\u0131y\u0131 da kazan\u0131p kazanamayaca\u011f\u0131na y\u00f6nelik tahmin yap\u0131lan oyun t\u00fcr\u00fcd\u00fcr.","type":"Kim Kazan\u0131r,Di\u011fer","odds":[{"gameID":1605043,"odd":null,"value":"Hay\u0131r"},{"gameID":1605043,"odd":5.85,"value":"Evet"}]},{"gameID":1605044,"matchID":48747,"gameName":"Deplasman Gol Yemeden Kazan\u0131r","gameDetails":"Deplasman ekibinin kar\u015f\u0131la\u015fmay\u0131 gol yemeden kazan\u0131p kazanamayaca\u011f\u0131n\u0131n tahmin edildi\u011fi oyun t\u00fcr\u00fcd\u00fcr.","type":"Goller,Di\u011fer","odds":[{"gameID":1605044,"odd":4.4,"value":"Evet"},{"gameID":1605044,"odd":null,"value":"Hay\u0131r"}]},{"gameID":1605045,"matchID":48747,"gameName":"Her \u0130ki Yar\u0131da da Alt 1.5","gameDetails":"Kar\u015f\u0131la\u015fman\u0131n her iki yar\u0131s\u0131nda da belirlenen say\u0131dan daha fazla gol olup olmayaca\u011f\u0131n\u0131n tahmin edildi\u011fi oyun t\u00fcr\u00fcd\u00fcr.","type":"Di\u011fer","odds":[{"gameID":1605045,"odd":1.25,"value":"Hay\u0131r"},{"gameID":1605045,"odd":3.01,"value":"Evet"}]},{"gameID":1605046,"matchID":48747,"gameName":"Deplasman Alt\/\u00dcst 0.5","gameDetails":"Kar\u015f\u0131la\u015fmada deplasman tak\u0131m\u0131n\u0131n toplam gol say\u0131s\u0131n\u0131n tahmin edildi\u011fi oyun t\u00fcr\u00fcd\u00fcr.","type":"Alt\/\u00dcst","odds":[{"gameID":1605046,"odd":1.2,"value":"\u00dcst"},{"gameID":1605046,"odd":3.39,"value":"Alt"}]},{"gameID":1605047,"matchID":48747,"gameName":"Hangi Tak\u0131m Ka\u00e7 Farkla Kazan\u0131r?","gameDetails":"Ev sahibi veya misafir tak\u0131m\u0131n kar\u015f\u0131la\u015fmay\u0131 ka\u00e7 gol farkla kazanaca\u011f\u0131n\u0131n tahmin edildi\u011fi oyun t\u00fcr\u00fcd\u00fcr.","type":"Kim Kazan\u0131r","odds":[{"gameID":1605047,"odd":3.38,"value":"0"},{"gameID":1605047,"odd":18.05,"value":"Dep 3+"},{"gameID":1605047,"odd":6.12,"value":"Ev 2"},{"gameID":1605047,"odd":10,"value":"Dep 2"},{"gameID":1605047,"odd":5.2,"value":"Dep 1"},{"gameID":1605047,"odd":4.07,"value":"Ev 1"},{"gameID":1605047,"odd":7.71,"value":"Ev 3+"}]},{"gameID":1605048,"matchID":48747,"gameName":"Ma\u00e7 Sonucu ve Alt\/\u00dcst 3.5","gameDetails":"Kar\u015f\u0131la\u015fmay\u0131 hangi tak\u0131m\u0131n kazanaca\u011f\u0131n\u0131n ve gol bahislerinin tahmin edildi\u011fi oyun t\u00fcr\u00fcd\u00fcr.","type":"Kim Kazan\u0131r,Alt\/\u00dcst,Kombo","odds":[{"gameID":1605048,"odd":8.66,"value":"0 ve \u00dcst"},{"gameID":1605048,"odd":4.29,"value":"1 ve \u00dcst"},{"gameID":1605048,"odd":4.38,"value":"2 ve Alt"},{"gameID":1605048,"odd":7.4,"value":"2 ve \u00dcst"},{"gameID":1605048,"odd":4.99,"value":"0 ve Alt"},{"gameID":1605048,"odd":3.09,"value":"1 ve Alt"}]},{"gameID":1605049,"matchID":48747,"gameName":"Alt\/\u00dcst 0.5","gameDetails":"Kar\u015f\u0131la\u015fmada at\u0131lacak toplam gol\u00fcn tahmin edildi\u011fi oyun t\u00fcr\u00fcd\u00fcr.","type":"Alt\/\u00dcst","odds":[{"gameID":1605049,"odd":null,"value":"\u00dcst"},{"gameID":1605049,"odd":12.75,"value":"Alt"}]},{"gameID":1605050,"matchID":48747,"gameName":"Ma\u00e7 Sonucu ve Kar\u015f\u0131l\u0131kl\u0131 Gol","gameDetails":"Hem kar\u015f\u0131la\u015fman\u0131n nas\u0131l sonu\u00e7lanaca\u011f\u0131n\u0131n, hem de kar\u015f\u0131la\u015fmada her iki tak\u0131m\u0131n da gol at\u0131p atamayaca\u011f\u0131n\u0131n tahmin edildi\u011fi oyun t\u00fcr\u00fcd\u00fcr.","type":"Alt\/\u00dcst,Kombo,Goller","odds":[{"gameID":1605050,"odd":6.49,"value":"2 ve Yok"},{"gameID":1605050,"odd":3.96,"value":"0 ve Var"},{"gameID":1605050,"odd":4.76,"value":"2 ve Var"},{"gameID":1605050,"odd":16.25,"value":"0 ve Yok"},{"gameID":1605050,"odd":4.02,"value":"1 ve Yok"},{"gameID":1605050,"odd":3.23,"value":"1 ve Var"}]},{"gameID":1605051,"matchID":48747,"gameName":"Tek \/ \u00c7ift","gameDetails":"Kar\u015f\u0131la\u015fmada at\u0131lacak toplam gol say\u0131s\u0131n\u0131n tek veya \u00e7ift olaca\u011f\u0131n\u0131n tahmin edildi\u011fi oyun t\u00fcr\u00fcd\u00fcr.","type":"Goller","odds":[{"gameID":1605051,"odd":1.72,"value":"\u00c7ift"},{"gameID":1605051,"odd":1.82,"value":"Tek"}]},{"gameID":1605052,"matchID":48747,"gameName":"\u0130lk Yar\u0131 Tek\/\u00c7ift","gameDetails":"\u0130lk yar\u0131 skoru toplam\u0131n\u0131n tek mi yoksa \u00e7ift mi olaca\u011f\u0131n\u0131n tahmin edildi\u011fi oyun t\u00fcr\u00fcd\u00fcr.","type":"Di\u011fer","odds":[{"gameID":1605052,"odd":1.66,"value":"\u00c7ift"},{"gameID":1605052,"odd":1.9,"value":"Tek"}]},{"gameID":1605053,"matchID":48747,"gameName":"\u0130kinci Yar\u0131 Kar\u015f\u0131l\u0131kl\u0131 Gol","gameDetails":"Futbolda ikinci yar\u0131 i\u00e7erisindeki 45 dakikal\u0131k s\u00fcre (ek olarak hakem taraf\u0131ndan kay\u0131p zaman i\u00e7in verilen uzatma dakikalar\u0131) i\u00e7erisinde her iki tak\u0131m\u0131n kar\u015f\u0131l\u0131kl\u0131 olarak gol at\u0131p atmayaca\u011f\u0131n\u0131n tahmin edildi\u011fi oyun t\u00fcr\u00fcd\u00fcr.","type":"Di\u011fer","odds":[{"gameID":1605053,"odd":1.33,"value":"Yok"},{"gameID":1605053,"odd":2.62,"value":"Var"}]},{"gameID":1605054,"matchID":48747,"gameName":"\u0130kinci Yar\u0131 Sonucu","gameDetails":"Kar\u015f\u0131la\u015fman\u0131n ilk yar\u0131 sonucunun berabere kabul edilip ikinci yar\u0131y\u0131 hangi tak\u0131m\u0131n kazanaca\u011f\u0131n\u0131n tahmin edildi\u011fi oyun t\u00fcr\u00fcd\u00fcr.","type":"Kim Kazan\u0131r","odds":[{"gameID":1605054,"odd":3.14,"value":"2"},{"gameID":1605054,"odd":2.69,"value":"0"},{"gameID":1605054,"odd":2.27,"value":"1"}]},{"gameID":1605055,"matchID":48747,"gameName":"Deplasman Yar\u0131 Kazan\u0131r","gameDetails":"Deplasman tak\u0131m\u0131n\u0131n ma\u00e7\u0131n birinci ya da ikinci yar\u0131s\u0131nda rakibinden daha fazla gol ataca\u011f\u0131n\u0131n tahmin edildi\u011fi oyun t\u00fcr\u00fcd\u00fcr. \u0130kinci yar\u0131 ba\u015flang\u0131c\u0131nda skor 0-0 say\u0131l\u0131r.","type":"Di\u011fer","odds":[{"gameID":1605055,"odd":1.67,"value":"Hay\u0131r"},{"gameID":1605055,"odd":1.89,"value":"Evet"}]},{"gameID":1605056,"matchID":48747,"gameName":"Alt\/\u00dcst 2.5","gameDetails":"Kar\u015f\u0131la\u015fmada at\u0131lacak toplam gol\u00fcn tahmin edildi\u011fi oyun t\u00fcr\u00fcd\u00fcr.","type":"Alt\/\u00dcst","odds":[{"gameID":1605056,"odd":1.47,"value":"\u00dcst"},{"gameID":1605056,"odd":2.22,"value":"Alt"}]},{"gameID":1605057,"matchID":48747,"gameName":"Ma\u00e7 Sonucu ve Alt\/\u00dcst 4.5","gameDetails":"Kar\u015f\u0131la\u015fmay\u0131 hangi tak\u0131m\u0131n kazanaca\u011f\u0131n\u0131n ve gol bahislerinin tahmin edildi\u011fi oyun t\u00fcr\u00fcd\u00fcr.","type":"Kim Kazan\u0131r,Alt\/\u00dcst,Kombo","odds":[{"gameID":1605057,"odd":35,"value":"0 ve \u00dcst"},{"gameID":1605057,"odd":11.35,"value":"2 ve \u00dcst"},{"gameID":1605057,"odd":6.68,"value":"1 ve \u00dcst"},{"gameID":1605057,"odd":3.62,"value":"2 ve Alt"},{"gameID":1605057,"odd":3.51,"value":"0 ve Alt"},{"gameID":1605057,"odd":2.46,"value":"1 ve Alt"}]},{"gameID":1605058,"matchID":48747,"gameName":"\u0130lk Gol\u00fc Hangi Tak\u0131m Atar","gameDetails":"Kar\u015f\u0131la\u015fmada ilk gol\u00fc hangi tak\u0131m\u0131n ataca\u011f\u0131n\u0131n tahmin edildi\u011fi oyun t\u00fcr\u00fcd\u00fcr.","type":"Goller,Di\u011fer","odds":[{"gameID":1605058,"odd":2.11,"value":"2"},{"gameID":1605058,"odd":17.65,"value":"Gol Olmaz"},{"gameID":1605058,"odd":1.67,"value":"1"}]},{"gameID":1605059,"matchID":48747,"gameName":"Deplasman Alt\/\u00dcst 1.5","gameDetails":"Kar\u015f\u0131la\u015fmada deplasman tak\u0131m\u0131n\u0131n toplam gol say\u0131s\u0131n\u0131n tahmin edildi\u011fi oyun t\u00fcr\u00fcd\u00fcr.","type":"Alt\/\u00dcst","odds":[{"gameID":1605059,"odd":2.18,"value":"\u00dcst"},{"gameID":1605059,"odd":1.49,"value":"Alt"}]},{"gameID":1605060,"matchID":48747,"gameName":"\u0130lk Yar\u0131 Skoru","gameDetails":"Kar\u015f\u0131la\u015fman\u0131n ilk yar\u0131 skorunun tahminine dayal\u0131 oyun t\u00fcr\u00fcd\u00fcr.","type":"Kim Kazan\u0131r","odds":[{"gameID":1605060,"odd":5.65,"value":"Dep 1:0"},{"gameID":1605060,"odd":18.15,"value":"Dep 2:0"},{"gameID":1605060,"odd":22.7,"value":"Dep 2:1"},{"gameID":1605060,"odd":11.9,"value":"di\u011fer"},{"gameID":1605060,"odd":17.6,"value":"Ev 2:1"},{"gameID":1605060,"odd":10.9,"value":"Ev 2:0"},{"gameID":1605060,"odd":4.4,"value":"Ev 1:0"},{"gameID":1605060,"odd":57,"value":"2:2"},{"gameID":1605060,"odd":7.07,"value":"1:1"},{"gameID":1605060,"odd":3.36,"value":"0:0"}]},{"gameID":1605061,"matchID":48747,"gameName":"Her \u0130ki Yar\u0131da da \u00dcst 1.5","gameDetails":"Kar\u015f\u0131la\u015fman\u0131n her iki yar\u0131s\u0131nda da belirlenen say\u0131dan daha fazla gol olup olmayaca\u011f\u0131n\u0131n tahmin edildi\u011fi oyun t\u00fcr\u00fcd\u00fcr.","type":"Di\u011fer","odds":[{"gameID":1605061,"odd":3.88,"value":"Evet"},{"gameID":1605061,"odd":1.15,"value":"Hay\u0131r"}]},{"gameID":1605062,"matchID":48747,"gameName":"\u0130lk Yar\u0131 Kar\u015f\u0131l\u0131kl\u0131 Gol","gameDetails":"Kar\u015f\u0131la\u015fman\u0131n \"ilk yar\u0131s\u0131nda\" her iki tak\u0131m\u0131n da gol bulmas\u0131na y\u00f6nelik tahmin yap\u0131lan oyun t\u00fcr\u00fcd\u00fcr.","type":"Kim Kazan\u0131r,Goller","odds":[{"gameID":1605062,"odd":1.2,"value":"Yok"},{"gameID":1605062,"odd":3.4,"value":"Var"}]},{"gameID":1605063,"matchID":48747,"gameName":"Deplasman \u0130lk Yar\u0131 Alt\u0131\/\u00dcst\u00fc 0.5","gameDetails":"Deplasman tak\u0131m\u0131n\u0131n ilk yar\u0131da ataca\u011f\u0131 gole y\u00f6nelik oynanan markettir.","type":"Alt\/\u00dcst","odds":[{"gameID":1605063,"odd":1.94,"value":"\u00dcst"},{"gameID":1605063,"odd":1.63,"value":"Alt"}]},{"gameID":1605064,"matchID":48747,"gameName":"Ev Sahibi Alt\/\u00dcst 2.5","gameDetails":"Kar\u015f\u0131la\u015fmada ev sahibi tak\u0131m\u0131n toplam gol say\u0131s\u0131n\u0131n tahmin edildi\u011fi oyun t\u00fcr\u00fcd\u00fcr.","type":"Alt\/\u00dcst","odds":[{"gameID":1605064,"odd":1.21,"value":"Alt"},{"gameID":1605064,"odd":3.29,"value":"\u00dcst"}]},{"gameID":1605065,"matchID":48747,"gameName":"\u0130lk Yar\u0131 Alt\/\u00dcst 2.5","gameDetails":"Kar\u015f\u0131la\u015fman\u0131n ilk yar\u0131s\u0131nda at\u0131lacak toplam gol\u00fcn tahmin edildi\u011fi oyun t\u00fcr\u00fcd\u00fcr.","type":"Alt\/\u00dcst","odds":[{"gameID":1605065,"odd":4.89,"value":"\u00dcst"},{"gameID":1605065,"odd":1.08,"value":"Alt"}]},{"gameID":1605066,"matchID":48747,"gameName":"Ev Sahibi Hangi Yar\u0131da Daha Fazla Gol Atar","gameDetails":"Ev sahibi ekibin kar\u015f\u0131la\u015fmada hangi yar\u0131da daha fazla gol ataca\u011f\u0131na y\u00f6nelik tahmin yap\u0131lan oyun t\u00fcr\u00fcd\u00fcr.","type":"Goller","odds":[{"gameID":1605066,"odd":2.3,"value":"2."},{"gameID":1605066,"odd":2.7,"value":"E\u015fit"},{"gameID":1605066,"odd":3.08,"value":"1."}]},{"gameID":1605067,"matchID":48747,"gameName":"\u0130lk Yar\u0131 Sonucu","gameDetails":"\u0130lk yar\u0131 sonucunun tahmin edildi\u011fi oyun t\u00fcr\u00fcd\u00fcr.","type":"Kim Kazan\u0131r","odds":[{"gameID":1605067,"odd":2.3,"value":"0"},{"gameID":1605067,"odd":3.47,"value":"2"},{"gameID":1605067,"odd":2.46,"value":"1"}]},{"gameID":1605068,"matchID":48747,"gameName":"\u0130lk Yar\u0131 Alt\/\u00dcst 0.5","gameDetails":"Kar\u015f\u0131la\u015fman\u0131n ilk yar\u0131s\u0131nda at\u0131lacak toplam gol\u00fcn tahmin edildi\u011fi oyun t\u00fcr\u00fcd\u00fcr.","type":"Alt\/\u00dcst","odds":[{"gameID":1605068,"odd":1.2,"value":"\u00dcst"},{"gameID":1605068,"odd":3.37,"value":"Alt"}]},{"gameID":1605069,"matchID":48747,"gameName":"Hangi Yar\u0131da Daha Fazla Gol Olur","gameDetails":"Kar\u015f\u0131la\u015fmada hangi yar\u0131da daha fazla gol \u00e7\u0131kaca\u011f\u0131na y\u00f6nelik tahmin yap\u0131lan oyun t\u00fcr\u00fcd\u00fcr.","type":"Goller","odds":[{"gameID":1605069,"odd":1.95,"value":"2."},{"gameID":1605069,"odd":3.62,"value":"E\u015fit"},{"gameID":1605069,"odd":2.93,"value":"1."}]},{"gameID":1605070,"matchID":48747,"gameName":"Ma\u00e7 Sonucu ve Alt\/\u00dcst 2.5","gameDetails":"Kar\u015f\u0131la\u015fmay\u0131 hangi tak\u0131m\u0131n kazanaca\u011f\u0131n\u0131n ve gol bahislerinin tahmin edildi\u011fi oyun t\u00fcr\u00fcd\u00fcr.","type":"Kim Kazan\u0131r,Alt\/\u00dcst,Kombo","odds":[{"gameID":1605070,"odd":4.12,"value":"2 ve \u00dcst"},{"gameID":1605070,"odd":8.63,"value":"0 ve \u00dcst"},{"gameID":1605070,"odd":2.6,"value":"1 ve \u00dcst"},{"gameID":1605070,"odd":8.24,"value":"2 ve Alt"},{"gameID":1605070,"odd":4.98,"value":"0 ve Alt"},{"gameID":1605070,"odd":5.8,"value":"1 ve Alt"}]},{"gameID":1605071,"matchID":48747,"gameName":"Toplam Gol","gameDetails":"Kar\u015f\u0131la\u015fman\u0131n toplamda ka\u00e7 gol aral\u0131\u011f\u0131nda bitece\u011fine y\u00f6nelik tahmin yap\u0131lan oyun t\u00fcr\u00fcd\u00fcr.","type":"Goller","odds":[{"gameID":1605071,"odd":8.32,"value":"6+ gol"},{"gameID":1605071,"odd":2.99,"value":"4-5 gol"},{"gameID":1605071,"odd":2.02,"value":"2-3 gol"},{"gameID":1605071,"odd":4.76,"value":"0-1 gol"}]},{"gameID":1605072,"matchID":48747,"gameName":"Alt\u0131\/\u00dcst\u00fc 2.5 ve Kar\u015f\u0131l\u0131kl\u0131 Gol","gameDetails":"Kar\u015f\u0131la\u015fmada hem at\u0131lacak toplam gol say\u0131s\u0131n\u0131n belirlenen say\u0131dan daha az veya daha fazla olaca\u011f\u0131n\u0131n, hem de kar\u015f\u0131l\u0131kl\u0131 gol olup olmayaca\u011f\u0131n\u0131n tahmininin yap\u0131ld\u0131\u011f\u0131 oyun t\u00fcr\u00fcd\u00fcr.","type":"Kombo","odds":[{"gameID":1605072,"odd":1.66,"value":"\u00dcst ve Var"},{"gameID":1605072,"odd":6.94,"value":"Alt ve Var"},{"gameID":1605072,"odd":8.57,"value":"\u00dcst ve Yok"},{"gameID":1605072,"odd":2.86,"value":"Alt ve Yok"}]},{"gameID":1605073,"matchID":48747,"gameName":"Ma\u00e7 Sonucu ve Alt\/\u00dcst 1.5","gameDetails":"Kar\u015f\u0131la\u015fmay\u0131 hangi tak\u0131m\u0131n kazanaca\u011f\u0131n\u0131n ve gol bahislerinin tahmin edildi\u011fi oyun t\u00fcr\u00fcd\u00fcr.","type":"Kim Kazan\u0131r,Alt\/\u00dcst,Kombo","odds":[{"gameID":1605073,"odd":3.42,"value":"2 ve \u00dcst"},{"gameID":1605073,"odd":2.18,"value":"1 ve \u00dcst"},{"gameID":1605073,"odd":13.65,"value":"2 ve Alt"},{"gameID":1605073,"odd":16,"value":"0 ve Alt"},{"gameID":1605073,"odd":3.92,"value":"0 ve \u00dcst"},{"gameID":1605073,"odd":10.7,"value":"1 ve Alt"}]},{"gameID":1629774,"matchID":48747,"gameName":"Oyuncu Gol Atar","gameDetails":"Ma\u00e7\u0131n normal s\u00fcresi i\u00e7erisinde hangi oyuncunun gol ataca\u011f\u0131n\u0131n tahmin edildi\u011fi oyun t\u00fcr\u00fcd\u00fcr. Kar\u015f\u0131la\u015fmaya \u00e7\u0131kmayan oyuncular \u00fczerine oynanan bahisler ge\u00e7ersiz olup oran bir (1.00) say\u0131lacakt\u0131r.","type":"Goller,Oyuncu","odds":[{"gameID":1629774,"odd":4.88,"value":"Zimmerschied, Tom"},{"gameID":1629774,"odd":11.85,"value":"Zobel, Tristan"},{"gameID":1629774,"odd":null,"value":"Dragon, Patryk"},{"gameID":1629774,"odd":6.79,"value":"Zehnter, Aaron"},{"gameID":1629774,"odd":2.93,"value":"Terho, Casper"},{"gameID":1629774,"odd":3.55,"value":"Stock, Paul"},{"gameID":1629774,"odd":6.2,"value":"Schmahl, Julius Frederik"},{"gameID":1629774,"odd":4.76,"value":"Sickinger, Carlo"},{"gameID":1629774,"odd":8.9,"value":"Sicker, Arne"},{"gameID":1629774,"odd":2.92,"value":"Schnellbacher, Luca"},{"gameID":1629774,"odd":13.65,"value":"Scheller, Tjark Lasse"},{"gameID":1629774,"odd":4.95,"value":"Sahin, Semih"},{"gameID":1629774,"odd":12.3,"value":"Rohr, Maximilian"},{"gameID":1629774,"odd":2.34,"value":"Platte, Felix"},{"gameID":1629774,"odd":14.15,"value":"Pinckert, Lukas Finn"},{"gameID":1629774,"odd":4.77,"value":"Pledl, Marco"},{"gameID":1629774,"odd":5.84,"value":"Pantschenko, Daniel"},{"gameID":1629774,"odd":4.31,"value":"Petkov, Lukas"},{"gameID":1629774,"odd":3.42,"value":"Obermair, Raphael"},{"gameID":1629774,"odd":9.71,"value":"Neubauer, Maurice"},{"gameID":1629774,"odd":4.06,"value":"Nadj, Niclas Tibor"},{"gameID":1629774,"odd":2.59,"value":"Michel, Sven"},{"gameID":1629774,"odd":4.96,"value":"Mehlem, Marvin"},{"gameID":1629774,"odd":13.85,"value":"Le Joncour, Florian"},{"gameID":1629774,"odd":11.65,"value":"Larin Curda"},{"gameID":1629774,"odd":10.55,"value":"Krumme, Kevin"},{"gameID":1629774,"odd":null,"value":"Kojic, Medin"},{"gameID":1629774,"odd":3.66,"value":"Klaas, Sebastian"},{"gameID":1629774,"odd":8.66,"value":"Jakel, Frederik"},{"gameID":1629774,"odd":12.1,"value":"Hoffmeier, Marcel"},{"gameID":1629774,"odd":4.2,"value":"Herrmann, Luca"},{"gameID":1629774,"odd":7.77,"value":"Hansen, Matt"},{"gameID":1629774,"odd":2.42,"value":"Grimaldi, Adriano"},{"gameID":1629774,"odd":8.15,"value":"Gotze, Felix"},{"gameID":1629774,"odd":3.62,"value":"Gerezgiher, Filimon"},{"gameID":1629774,"odd":6.31,"value":"Fellhauer, Robin"},{"gameID":1629774,"odd":4.25,"value":"Brandt, Jascha"},{"gameID":1629774,"odd":8.44,"value":"Ens, Martin"},{"gameID":1629774,"odd":3.82,"value":"Engelns, Luis"},{"gameID":1629774,"odd":4.57,"value":"Feil, Manuel"},{"gameID":1629774,"odd":6.8,"value":"Durholtz, Luca"},{"gameID":1629774,"odd":3.06,"value":"Ebnoutalib, Younes"},{"gameID":1629774,"odd":3.18,"value":"Damar, Muhammed"},{"gameID":1629774,"odd":5.7,"value":"Castaneda, Santiago"},{"gameID":1629774,"odd":9.57,"value":"Brackelmann, Calvin Marc"},{"gameID":1629774,"odd":2.63,"value":"Bilbija, Filip"},{"gameID":1629774,"odd":2.48,"value":"Asllani, Fisnik"},{"gameID":1629774,"odd":13.95,"value":"Baum, Elias"},{"gameID":1629774,"odd":9.2,"value":"Bauerle, Anton"},{"gameID":1629774,"odd":2.7,"value":"Ansah, Ilyas"}]},{"gameID":1642043,"matchID":48747,"gameName":"Kim Daha \u00c7ok Korner Kullan\u0131r","gameDetails":"Kar\u015f\u0131la\u015fman\u0131n normal s\u00fcresinde hangi ekibin daha \u00e7ok korner kullanaca\u011f\u0131n\u0131 tahmin etmeye y\u00f6nelik oyun t\u00fcr\u00fcd\u00fcr.","type":"Korner\/Kart","odds":[{"gameID":1642043,"odd":2.82,"value":"2"},{"gameID":1642043,"odd":1.45,"value":"1"},{"gameID":1642043,"odd":7.36,"value":"0"}]},{"gameID":1642045,"matchID":48747,"gameName":"Toplam Korner Aral\u0131\u011f\u0131","gameDetails":"Kar\u015f\u0131la\u015fmada her iki tak\u0131m\u0131n da kazand\u0131\u011f\u0131 toplam korner say\u0131s\u0131 aral\u0131\u011f\u0131n\u0131n tahmin edildi\u011fi oyun t\u00fcr\u00fcd\u00fcr.","type":"Korner\/Kart","odds":[{"gameID":1642045,"odd":2.7,"value":"9-11"},{"gameID":1642045,"odd":3.11,"value":"0-8"},{"gameID":1642045,"odd":2.24,"value":"12+"}]},{"gameID":1642047,"matchID":48747,"gameName":"\u0130lk Yar\u0131 Kim Daha \u00c7ok Korner Kullan\u0131r","gameDetails":"Kar\u015f\u0131la\u015fman\u0131n ilk yar\u0131s\u0131nda en fazla korneri hangi tak\u0131m\u0131n kullanaca\u011f\u0131na y\u00f6nelik tahmin yap\u0131lan oyun t\u00fcr\u00fcd\u00fcr.","type":"Kim Kazan\u0131r,Korner\/Kart","odds":[{"gameID":1642047,"odd":5.36,"value":"0"},{"gameID":1642047,"odd":2.76,"value":"2"},{"gameID":1642047,"odd":1.66,"value":"1"}]},{"gameID":1642048,"matchID":48747,"gameName":"Korner Tek\/\u00c7ift","gameDetails":"Bir ma\u00e7ta at\u0131lacak toplam korner say\u0131s\u0131n\u0131n tek mi \u00e7ift mi olaca\u011f\u0131n\u0131n tahmin edildi\u011fi oyun t\u00fcr\u00fcd\u00fcr.","type":"Di\u011fer","odds":[{"gameID":1642048,"odd":1.74,"value":"\u00c7ift"},{"gameID":1642048,"odd":1.73,"value":"Tek"}]},{"gameID":1642050,"matchID":48747,"gameName":"\u0130lk Yar\u0131 Toplam Korner Say\u0131s\u0131 Alt\/\u00dcst 3.5","gameDetails":"Kar\u015f\u0131la\u015fman\u0131n ilk yar\u0131s\u0131nda her iki tak\u0131m\u0131n da kazand\u0131\u011f\u0131 toplam korner at\u0131\u015f\u0131n\u0131n tahmin edildi\u011fi oyun t\u00fcr\u00fcd\u00fcr.","type":"Alt\/\u00dcst,Korner\/Kart","odds":[{"gameID":1642050,"odd":2.96,"value":"Alt"},{"gameID":1642050,"odd":1.22,"value":"\u00dcst"}]},{"gameID":1642052,"matchID":48747,"gameName":"\u0130lk Yar\u0131 Toplam Korner Aral\u0131\u011f\u0131","gameDetails":"Kar\u015f\u0131la\u015fman\u0131n ilk yar\u0131s\u0131nda her iki tak\u0131m\u0131n da kazand\u0131\u011f\u0131 toplam korner say\u0131s\u0131 aral\u0131\u011f\u0131n\u0131n tahmin edildi\u011fi oyun t\u00fcr\u00fcd\u00fcr.","type":"Kim Kazan\u0131r,Korner\/Kart","odds":[{"gameID":1642052,"odd":3.28,"value":"7+"},{"gameID":1642052,"odd":2.98,"value":"5-6"},{"gameID":1642052,"odd":2,"value":"0-4"}]},{"gameID":1642054,"matchID":48747,"gameName":"Toplam Korner Say\u0131s\u0131 Alt\/\u00dcst 11.5","gameDetails":"Kar\u015f\u0131la\u015fmada her iki tak\u0131m\u0131n da kazand\u0131\u011f\u0131 toplam korner at\u0131\u015f\u0131n\u0131n tahmin edildi\u011fi oyun t\u00fcr\u00fcd\u00fcr.","type":"Korner\/Kart","odds":[{"gameID":1642054,"odd":1.44,"value":"Alt"},{"gameID":1642054,"odd":2.17,"value":"\u00dcst"}]},{"gameID":1642055,"matchID":48747,"gameName":"Toplam Korner Say\u0131s\u0131 Alt\/\u00dcst 9.5","gameDetails":"Kar\u015f\u0131la\u015fmada her iki tak\u0131m\u0131n da kazand\u0131\u011f\u0131 toplam korner at\u0131\u015f\u0131n\u0131n tahmin edildi\u011fi oyun t\u00fcr\u00fcd\u00fcr.","type":"Korner\/Kart","odds":[{"gameID":1642055,"odd":1.44,"value":"\u00dcst"},{"gameID":1642055,"odd":2.2,"value":"Alt"}]},{"gameID":1642057,"matchID":48747,"gameName":"\u0130lk Yar\u0131 Toplam Korner Say\u0131s\u0131 Alt\/\u00dcst 5.5","gameDetails":"Kar\u015f\u0131la\u015fman\u0131n ilk yar\u0131s\u0131nda her iki tak\u0131m\u0131n da kazand\u0131\u011f\u0131 toplam korner at\u0131\u015f\u0131n\u0131n tahmin edildi\u011fi oyun t\u00fcr\u00fcd\u00fcr.","type":"Alt\/\u00dcst,Korner\/Kart","odds":[{"gameID":1642057,"odd":1.46,"value":"Alt"},{"gameID":1642057,"odd":2.14,"value":"\u00dcst"}]},{"gameID":1642059,"matchID":48747,"gameName":"\u0130lk Yar\u0131 Toplam Korner Say\u0131s\u0131 Alt\/\u00dcst 4.5","gameDetails":"Kar\u015f\u0131la\u015fman\u0131n ilk yar\u0131s\u0131nda her iki tak\u0131m\u0131n da kazand\u0131\u011f\u0131 toplam korner at\u0131\u015f\u0131n\u0131n tahmin edildi\u011fi oyun t\u00fcr\u00fcd\u00fcr.","type":"Alt\/\u00dcst,Korner\/Kart","odds":[{"gameID":1642059,"odd":1.56,"value":"\u00dcst"},{"gameID":1642059,"odd":1.95,"value":"Alt"}]},{"gameID":1642061,"matchID":48747,"gameName":"\u0130lk Korneri Kim Kullan\u0131r","gameDetails":"Kar\u015f\u0131la\u015fmada ilk korneri hangi tak\u0131m\u0131n kullanaca\u011f\u0131na y\u00f6nelik tahmin yap\u0131lan oyundur.","type":"Korner\/Kart","odds":[{"gameID":1642061,"odd":2.01,"value":"2"},{"gameID":1642061,"odd":27.5,"value":"Olmaz"},{"gameID":1642061,"odd":1.53,"value":"1"}]},{"gameID":1642063,"matchID":48747,"gameName":"Toplam Korner Say\u0131s\u0131 Alt\/\u00dcst 10.5","gameDetails":"Kar\u015f\u0131la\u015fmada her iki tak\u0131m\u0131n da kazand\u0131\u011f\u0131 toplam korner at\u0131\u015f\u0131n\u0131n tahmin edildi\u011fi oyun t\u00fcr\u00fcd\u00fcr.","type":"Korner\/Kart","odds":[{"gameID":1642063,"odd":1.74,"value":"Alt"},{"gameID":1642063,"odd":1.73,"value":"\u00dcst"}]}]}]}
+{
+    "status": "success",
+    "message": "ok",
+    "messageTR": "ok",
+    "systemTime": 1745664865,
+    "endpoint": "bettable-matches\/details",
+    "rowCount": 1,
+    "creditUsed": 1,
+    "data": [
+        {
+            "MatchID": 48747,
+            "Date": "2025-04-26",
+            "Time": "14:00:00",
+            "DateTime": "2025-04-26 14:00:00",
+            "LeagueCode": "DE",
+            "League": "Almanya 2. Bundesliga",
+            "LeagueFlag": "https:\/\/www.nosycdn.com\/api\/bets\/league\/flag\/de.png",
+            "Country": "DE",
+            "Type": 1,
+            "Teams": "Paderborn - Elversberg",
+            "Team1": "Paderborn",
+            "Team2": "Elversberg",
+            "Team1Logo": "https:\/\/www.nosycdn.com\/api\/bets\/teams\/paderborn.png",
+            "Team2Logo": "https:\/\/www.nosycdn.com\/api\/bets\/teams\/elversberg.png",
+            "MB": 1,
+            "Result": 0,
+            "GameResult": 0,
+            "LiveStatus": 1,
+            "BetCount": 320,
+            "HomeWin": 1.95,
+            "Draw": 3.51,
+            "AwayWin": 3.01,
+            "Under25": 2.22,
+            "Over25": 1.47,
+            "gameType": [
+                "Kim Kazan\u0131r",
+                "Alt\/\u00dcst",
+                "Kombo",
+                "Goller",
+                "Skor",
+                "Korner\/Kart",
+                "Oyuncu",
+                "\u00d6zel",
+                "Di\u011fer"
+            ],
+            "Bets": [
+                {
+                    "gameID": 1605019,
+                    "matchID": 48747,
+                    "gameName": "Alt\/\u00dcst 4.5",
+                    "gameDetails": "Kar\u015f\u0131la\u015fmada at\u0131lacak toplam gol\u00fcn tahmin edildi\u011fi oyun t\u00fcr\u00fcd\u00fcr.",
+                    "type": "Alt\/\u00dcst",
+                    "odds": [
+                        {
+                            "gameID": 1605019,
+                            "odd": 3.99,
+                            "value": "\u00dcst"
+                        },
+                        {
+                            "gameID": 1605019,
+                            "odd": 1.14,
+                            "value": "Alt"
+                        }
+                    ]
+                },
+                {
+                    "gameID": 1605020,
+                    "matchID": 48747,
+                    "gameName": "Deplasman Alt\/\u00dcst 2.5",
+                    "gameDetails": "Kar\u015f\u0131la\u015fmada deplasman tak\u0131m\u0131n\u0131n toplam gol say\u0131s\u0131n\u0131n tahmin edildi\u011fi oyun t\u00fcr\u00fcd\u00fcr.",
+                    "type": "Alt\/\u00dcst",
+                    "odds": [
+                        {
+                            "gameID": 1605020,
+                            "odd": 5.05,
+                            "value": "\u00dcst"
+                        },
+                        {
+                            "gameID": 1605020,
+                            "odd": 1.08,
+                            "value": "Alt"
+                        }
+                    ]
+                },
+                {
+                    "gameID": 1605021,
+                    "matchID": 48747,
+                    "gameName": "Ma\u00e7 Sonucu",
+                    "gameDetails": "Kar\u015f\u0131la\u015fmay\u0131 hangi tak\u0131m\u0131n kazanaca\u011f\u0131n\u0131n tahminine dayal\u0131 oyun t\u00fcr\u00fcd\u00fcr.",
+                    "type": "Kim Kazan\u0131r",
+                    "odds": [
+                        {
+                            "gameID": 1605021,
+                            "odd": 3.01,
+                            "value": "2"
+                        },
+                        {
+                            "gameID": 1605021,
+                            "odd": 3.51,
+                            "value": "0"
+                        },
+                        {
+                            "gameID": 1605021,
+                            "odd": 1.95,
+                            "value": "1"
+                        }
+                    ]
+                },
+                {
+                    "gameID": 1605022,
+                    "matchID": 48747,
+                    "gameName": "\u00c7ifte \u015eans",
+                    "gameDetails": "Hangi tak\u0131m\u0131n ma\u00e7tan galibiyet veya beraberlikle ayr\u0131laca\u011f\u0131n\u0131n tahmin edildi\u011fi oyun t\u00fcr\u00fcd\u00fcr.",
+                    "type": "Kim Kazan\u0131r",
+                    "odds": [
+                        {
+                            "gameID": 1605022,
+                            "odd": 1.38,
+                            "value": "0 ve 2"
+                        },
+                        {
+                            "gameID": 1605022,
+                            "odd": 1.1,
+                            "value": "1 ve 2"
+                        },
+                        {
+                            "gameID": 1605022,
+                            "odd": 1.15,
+                            "value": "1 ve 0"
+                        }
+                    ]
+                },
+                {
+                    "gameID": 1605023,
+                    "matchID": 48747,
+                    "gameName": "\u0130lk Yar\u0131 Sonucu ve Alt\u0131\/\u00dcst\u00fc 1.5",
+                    "gameDetails": "Hem ilk yar\u0131 sonucunun hem de ilk yar\u0131da at\u0131lacak toplam gol say\u0131s\u0131n\u0131n belirlenen say\u0131dan daha az veya daha fazla olaca\u011f\u0131n\u0131n tahmininin yap\u0131ld\u0131\u011f\u0131 oyun t\u00fcr\u00fcd\u00fcr.",
+                    "type": "Kim Kazan\u0131r,Alt\/\u00dcst,Kombo",
+                    "odds": [
+                        {
+                            "gameID": 1605023,
+                            "odd": 7.57,
+                            "value": "2 ve \u00dcst"
+                        },
+                        {
+                            "gameID": 1605023,
+                            "odd": 4.78,
+                            "value": "1 ve \u00dcst"
+                        },
+                        {
+                            "gameID": 1605023,
+                            "odd": 6.02,
+                            "value": "0 ve \u00dcst"
+                        },
+                        {
+                            "gameID": 1605023,
+                            "odd": 5.43,
+                            "value": "2 ve Alt"
+                        },
+                        {
+                            "gameID": 1605023,
+                            "odd": 3.24,
+                            "value": "0 ve Alt"
+                        },
+                        {
+                            "gameID": 1605023,
+                            "odd": 4.23,
+                            "value": "1 ve Alt"
+                        }
+                    ]
+                },
+                {
+                    "gameID": 1605024,
+                    "matchID": 48747,
+                    "gameName": "\u0130lk Yar\u0131 \/ Ma\u00e7 Sonucu",
+                    "gameDetails": "Kar\u015f\u0131la\u015fman\u0131n ilk yar\u0131s\u0131n\u0131 ve ma\u00e7\u0131n tamam\u0131n\u0131 \u00f6nde bitirecek tak\u0131m\u0131n tahmin edildi\u011fi oyun t\u00fcr\u00fcd\u00fcr.",
+                    "type": "Kim Kazan\u0131r",
+                    "odds": [
+                        {
+                            "gameID": 1605024,
+                            "odd": 13.85,
+                            "value": "2\/0"
+                        },
+                        {
+                            "gameID": 1605024,
+                            "odd": 7.67,
+                            "value": "0\/2"
+                        },
+                        {
+                            "gameID": 1605024,
+                            "odd": 23.25,
+                            "value": "2\/1"
+                        },
+                        {
+                            "gameID": 1605024,
+                            "odd": 5.92,
+                            "value": "0\/0"
+                        },
+                        {
+                            "gameID": 1605024,
+                            "odd": 4.98,
+                            "value": "2\/2"
+                        },
+                        {
+                            "gameID": 1605024,
+                            "odd": 5.52,
+                            "value": "0\/1"
+                        },
+                        {
+                            "gameID": 1605024,
+                            "odd": 13.3,
+                            "value": "1\/0"
+                        },
+                        {
+                            "gameID": 1605024,
+                            "odd": 30.5,
+                            "value": "1\/2"
+                        },
+                        {
+                            "gameID": 1605024,
+                            "odd": 3,
+                            "value": "1\/1"
+                        }
+                    ]
+                },
+                {
+                    "gameID": 1605025,
+                    "matchID": 48747,
+                    "gameName": "\u0130lk Yar\u0131 Sonucu ve \u0130lk Yar\u0131 Kar\u015f\u0131l\u0131kl\u0131 Gol",
+                    "gameDetails": "Hem kar\u015f\u0131la\u015fman\u0131n ilk yar\u0131s\u0131n\u0131n nas\u0131l sonu\u00e7lanaca\u011f\u0131n\u0131n, hem de kar\u015f\u0131la\u015fman\u0131n ilk yar\u0131s\u0131nda her iki tak\u0131m\u0131n da gol at\u0131p atamayaca\u011f\u0131n\u0131n tahmin edildi\u011fi oyun t\u00fcr\u00fcd\u00fcr.",
+                    "type": "Kim Kazan\u0131r,Kombo,Goller",
+                    "odds": [
+                        {
+                            "gameID": 1605025,
+                            "odd": 3.22,
+                            "value": "0 ve Yok"
+                        },
+                        {
+                            "gameID": 1605025,
+                            "odd": 16.05,
+                            "value": "2 ve Var"
+                        },
+                        {
+                            "gameID": 1605025,
+                            "odd": 3.94,
+                            "value": "2 ve Yok"
+                        },
+                        {
+                            "gameID": 1605025,
+                            "odd": 5.97,
+                            "value": "0 ve Var"
+                        },
+                        {
+                            "gameID": 1605025,
+                            "odd": 2.8,
+                            "value": "1 ve Yok"
+                        },
+                        {
+                            "gameID": 1605025,
+                            "odd": 11.65,
+                            "value": "1 ve Var"
+                        }
+                    ]
+                },
+                {
+                    "gameID": 1605026,
+                    "matchID": 48747,
+                    "gameName": "Ev Sahibi Gol Yemeden Kazan\u0131r",
+                    "gameDetails": "Ev sahibi ekibin kar\u015f\u0131la\u015fmay\u0131 gol yemeden kazan\u0131p kazanamayaca\u011f\u0131n\u0131n tahmin edildi\u011fi oyun t\u00fcr\u00fcd\u00fcr.",
+                    "type": "Goller,Di\u011fer",
+                    "odds": [
+                        {
+                            "gameID": 1605026,
+                            "odd": 1.07,
+                            "value": "Hay\u0131r"
+                        },
+                        {
+                            "gameID": 1605026,
+                            "odd": 3.28,
+                            "value": "Evet"
+                        }
+                    ]
+                },
+                {
+                    "gameID": 1605027,
+                    "matchID": 48747,
+                    "gameName": "Alt\/\u00dcst 3.5",
+                    "gameDetails": "Kar\u015f\u0131la\u015fmada at\u0131lacak toplam gol\u00fcn tahmin edildi\u011fi oyun t\u00fcr\u00fcd\u00fcr.",
+                    "type": "Alt\/\u00dcst",
+                    "odds": [
+                        {
+                            "gameID": 1605027,
+                            "odd": 2.25,
+                            "value": "\u00dcst"
+                        },
+                        {
+                            "gameID": 1605027,
+                            "odd": 1.45,
+                            "value": "Alt"
+                        }
+                    ]
+                },
+                {
+                    "gameID": 1605028,
+                    "matchID": 48747,
+                    "gameName": "Ev Sahibi Yar\u0131 Kazan\u0131r",
+                    "gameDetails": "Ev sahibi tak\u0131m\u0131n ma\u00e7\u0131n birinci ya da ikinci yar\u0131s\u0131nda rakibinden daha fazla gol ataca\u011f\u0131n\u0131n tahmin edildi\u011fi oyun t\u00fcr\u00fcd\u00fcr. \u0130kinci yar\u0131 ba\u015flang\u0131c\u0131nda skor 0-0 say\u0131l\u0131r.",
+                    "type": "Di\u011fer",
+                    "odds": [
+                        {
+                            "gameID": 1605028,
+                            "odd": 1.45,
+                            "value": "Evet"
+                        },
+                        {
+                            "gameID": 1605028,
+                            "odd": 2.26,
+                            "value": "Hay\u0131r"
+                        }
+                    ]
+                },
+                {
+                    "gameID": 1605029,
+                    "matchID": 48747,
+                    "gameName": "Kar\u015f\u0131l\u0131kl\u0131 Gol",
+                    "gameDetails": "Kar\u015f\u0131la\u015fmada her iki tak\u0131m\u0131n da gol bulmas\u0131na y\u00f6nelik tahmin yap\u0131lan oyun t\u00fcr\u00fcd\u00fcr.",
+                    "type": "Goller",
+                    "odds": [
+                        {
+                            "gameID": 1605029,
+                            "odd": 2.34,
+                            "value": "Yok"
+                        },
+                        {
+                            "gameID": 1605029,
+                            "odd": 1.43,
+                            "value": "Var"
+                        }
+                    ]
+                },
+                {
+                    "gameID": 1605030,
+                    "matchID": 48747,
+                    "gameName": "Deplasman Her \u0130ki Yar\u0131y\u0131 Kazan\u0131r",
+                    "gameDetails": "Deplasman ekibinin her iki yar\u0131y\u0131 da kazan\u0131p kazanamayaca\u011f\u0131na y\u00f6nelik tahmin yap\u0131lan oyun t\u00fcr\u00fcd\u00fcr.",
+                    "type": "Kim Kazan\u0131r,Di\u011fer",
+                    "odds": [
+                        {
+                            "gameID": 1605030,
+                            "odd": null,
+                            "value": "Hay\u0131r"
+                        },
+                        {
+                            "gameID": 1605030,
+                            "odd": 10.35,
+                            "value": "Evet"
+                        }
+                    ]
+                },
+                {
+                    "gameID": 1605031,
+                    "matchID": 48747,
+                    "gameName": "\u0130lk Yar\u0131 Alt\/\u00dcst 1.5",
+                    "gameDetails": "Kar\u015f\u0131la\u015fman\u0131n ilk yar\u0131s\u0131nda at\u0131lacak toplam gol\u00fcn tahmin edildi\u011fi oyun t\u00fcr\u00fcd\u00fcr.",
+                    "type": "Alt\/\u00dcst",
+                    "odds": [
+                        {
+                            "gameID": 1605031,
+                            "odd": 2.15,
+                            "value": "\u00dcst"
+                        },
+                        {
+                            "gameID": 1605031,
+                            "odd": 1.5,
+                            "value": "Alt"
+                        }
+                    ]
+                },
+                {
+                    "gameID": 1605032,
+                    "matchID": 48747,
+                    "gameName": "Handikapl\u0131 Ma\u00e7 Sonucu -1",
+                    "gameDetails": "Tak\u0131mlardan birinin say\u0131s\u0131 belirlenen kadar golle ma\u00e7a \u00f6nde ba\u015flad\u0131\u011f\u0131 say\u0131l\u0131r. Bu durum g\u00f6z \u00f6n\u00fcnde bulundurularak ma\u00e7 sonucunun tahmin edildi\u011fi oyun t\u00fcr\u00fcd\u00fcr.",
+                    "type": "Kim Kazan\u0131r",
+                    "odds": [
+                        {
+                            "gameID": 1605032,
+                            "odd": 3.27,
+                            "value": "0"
+                        },
+                        {
+                            "gameID": 1605032,
+                            "odd": 1.44,
+                            "value": "2"
+                        },
+                        {
+                            "gameID": 1605032,
+                            "odd": 2.81,
+                            "value": "1"
+                        }
+                    ]
+                },
+                {
+                    "gameID": 1605033,
+                    "matchID": 48747,
+                    "gameName": "Deplasman Hangi Yar\u0131da Daha Fazla Gol Atar",
+                    "gameDetails": "Deplasman ekibinin kar\u015f\u0131la\u015fmada hangi yar\u0131da daha fazla gol ataca\u011f\u0131na y\u00f6nelik tahmin yap\u0131lan oyun t\u00fcr\u00fcd\u00fcr.",
+                    "type": "Goller",
+                    "odds": [
+                        {
+                            "gameID": 1605033,
+                            "odd": 2.47,
+                            "value": "2."
+                        },
+                        {
+                            "gameID": 1605033,
+                            "odd": 2.33,
+                            "value": "E\u015fit"
+                        },
+                        {
+                            "gameID": 1605033,
+                            "odd": 3.37,
+                            "value": "1."
+                        }
+                    ]
+                },
+                {
+                    "gameID": 1605034,
+                    "matchID": 48747,
+                    "gameName": "Alt\/\u00dcst 1.5",
+                    "gameDetails": "Kar\u015f\u0131la\u015fmada at\u0131lacak toplam gol\u00fcn tahmin edildi\u011fi oyun t\u00fcr\u00fcd\u00fcr.",
+                    "type": "Alt\/\u00dcst",
+                    "odds": [
+                        {
+                            "gameID": 1605034,
+                            "odd": 1.09,
+                            "value": "\u00dcst"
+                        },
+                        {
+                            "gameID": 1605034,
+                            "odd": 4.62,
+                            "value": "Alt"
+                        }
+                    ]
+                },
+                {
+                    "gameID": 1605035,
+                    "matchID": 48747,
+                    "gameName": "Ev Sahibi Alt\/\u00dcst 0.5",
+                    "gameDetails": "Kar\u015f\u0131la\u015fmada ev sahibi tak\u0131m\u0131n toplam gol say\u0131s\u0131n\u0131n tahmin edildi\u011fi oyun t\u00fcr\u00fcd\u00fcr.",
+                    "type": "Alt\/\u00dcst",
+                    "odds": [
+                        {
+                            "gameID": 1605035,
+                            "odd": 1.09,
+                            "value": "\u00dcst"
+                        },
+                        {
+                            "gameID": 1605035,
+                            "odd": 4.78,
+                            "value": "Alt"
+                        }
+                    ]
+                },
+                {
+                    "gameID": 1605036,
+                    "matchID": 48747,
+                    "gameName": "\u0130lk Yar\u0131\/Ma\u00e7 Sonucu Skorlar\u0131",
+                    "gameDetails": "\u0130lk yar\u0131 ve ma\u00e7 sonucu skorunun tahmin edildi\u011fi oyun t\u00fcr\u00fcd\u00fcr.",
+                    "type": "Skor",
+                    "odds": [
+                        {
+                            "gameID": 1605036,
+                            "odd": 84,
+                            "value": "0-3 4+"
+                        },
+                        {
+                            "gameID": 1605036,
+                            "odd": 22.3,
+                            "value": "1-2 4+"
+                        },
+                        {
+                            "gameID": 1605036,
+                            "odd": 13,
+                            "value": "4+ 4+"
+                        },
+                        {
+                            "gameID": 1605036,
+                            "odd": 84,
+                            "value": "2-1 2-1"
+                        },
+                        {
+                            "gameID": 1605036,
+                            "odd": 93,
+                            "value": "0-3 0-3"
+                        },
+                        {
+                            "gameID": 1605036,
+                            "odd": 93,
+                            "value": "1-2 1-2"
+                        },
+                        {
+                            "gameID": 1605036,
+                            "odd": 17.65,
+                            "value": "2-1 4+"
+                        },
+                        {
+                            "gameID": 1605036,
+                            "odd": 93,
+                            "value": "3-0 3-0"
+                        },
+                        {
+                            "gameID": 1605036,
+                            "odd": 27,
+                            "value": "0-2 4+"
+                        },
+                        {
+                            "gameID": 1605036,
+                            "odd": 93,
+                            "value": "0-2 1-2"
+                        },
+                        {
+                            "gameID": 1605036,
+                            "odd": 11.15,
+                            "value": "1-1 4+"
+                        },
+                        {
+                            "gameID": 1605036,
+                            "odd": 93,
+                            "value": "0-2 0-3"
+                        },
+                        {
+                            "gameID": 1605036,
+                            "odd": 93,
+                            "value": "0-2 0-2"
+                        },
+                        {
+                            "gameID": 1605036,
+                            "odd": 46.5,
+                            "value": "1-1 1-2"
+                        },
+                        {
+                            "gameID": 1605036,
+                            "odd": 32.5,
+                            "value": "1-1 1-1"
+                        },
+                        {
+                            "gameID": 1605036,
+                            "odd": 37,
+                            "value": "1-1 2-1"
+                        },
+                        {
+                            "gameID": 1605036,
+                            "odd": 25,
+                            "value": "0-1 1-1"
+                        },
+                        {
+                            "gameID": 1605036,
+                            "odd": 16.75,
+                            "value": "2-0 4+"
+                        },
+                        {
+                            "gameID": 1605036,
+                            "odd": 56,
+                            "value": "2-0 3-0"
+                        },
+                        {
+                            "gameID": 1605036,
+                            "odd": 65,
+                            "value": "2-0 2-1"
+                        },
+                        {
+                            "gameID": 1605036,
+                            "odd": 56,
+                            "value": "2-0 2-0"
+                        },
+                        {
+                            "gameID": 1605036,
+                            "odd": 17.65,
+                            "value": "0-1 4+"
+                        },
+                        {
+                            "gameID": 1605036,
+                            "odd": 42,
+                            "value": "3-0 4+"
+                        },
+                        {
+                            "gameID": 1605036,
+                            "odd": 46.5,
+                            "value": "0-1 2-1"
+                        },
+                        {
+                            "gameID": 1605036,
+                            "odd": 37,
+                            "value": "0-1 1-2"
+                        },
+                        {
+                            "gameID": 1605036,
+                            "odd": 20.45,
+                            "value": "0-0 0-1"
+                        },
+                        {
+                            "gameID": 1605036,
+                            "odd": 13.95,
+                            "value": "1-0 4+"
+                        },
+                        {
+                            "gameID": 1605036,
+                            "odd": 93,
+                            "value": "0-1 0-3"
+                        },
+                        {
+                            "gameID": 1605036,
+                            "odd": 37,
+                            "value": "0-1 0-2"
+                        },
+                        {
+                            "gameID": 1605036,
+                            "odd": 28,
+                            "value": "0-1 0-1"
+                        },
+                        {
+                            "gameID": 1605036,
+                            "odd": 28,
+                            "value": "1-0 2-1"
+                        },
+                        {
+                            "gameID": 1605036,
+                            "odd": 22.3,
+                            "value": "1-0 2-0"
+                        },
+                        {
+                            "gameID": 1605036,
+                            "odd": 46.5,
+                            "value": "0-0 2-1"
+                        },
+                        {
+                            "gameID": 1605036,
+                            "odd": 42,
+                            "value": "1-0 3-0"
+                        },
+                        {
+                            "gameID": 1605036,
+                            "odd": 65,
+                            "value": "1-0 1-2"
+                        },
+                        {
+                            "gameID": 1605036,
+                            "odd": 20.45,
+                            "value": "0-0 1-1"
+                        },
+                        {
+                            "gameID": 1605036,
+                            "odd": 28,
+                            "value": "0:0 4+"
+                        },
+                        {
+                            "gameID": 1605036,
+                            "odd": 24.2,
+                            "value": "1-0 1-1"
+                        },
+                        {
+                            "gameID": 1605036,
+                            "odd": 21.4,
+                            "value": "1-0 1-0"
+                        },
+                        {
+                            "gameID": 1605036,
+                            "odd": 56,
+                            "value": "0-0 1-2"
+                        },
+                        {
+                            "gameID": 1605036,
+                            "odd": 93,
+                            "value": "0-0 0-3"
+                        },
+                        {
+                            "gameID": 1605036,
+                            "odd": 46.5,
+                            "value": "0-0 0-2"
+                        },
+                        {
+                            "gameID": 1605036,
+                            "odd": 93,
+                            "value": "0-0 3-0"
+                        },
+                        {
+                            "gameID": 1605036,
+                            "odd": 13.95,
+                            "value": "0-0 0-0"
+                        },
+                        {
+                            "gameID": 1605036,
+                            "odd": 32.5,
+                            "value": "0-0 2-0"
+                        },
+                        {
+                            "gameID": 1605036,
+                            "odd": 16.75,
+                            "value": "0-0 1-0"
+                        }
+                    ]
+                },
+                {
+                    "gameID": 1605037,
+                    "matchID": 48747,
+                    "gameName": "Handikapl\u0131 Ma\u00e7 Sonucu -2",
+                    "gameDetails": "Tak\u0131mlardan birinin say\u0131s\u0131 belirlenen kadar golle ma\u00e7a \u00f6nde ba\u015flad\u0131\u011f\u0131 say\u0131l\u0131r. Bu durum g\u00f6z \u00f6n\u00fcnde bulundurularak ma\u00e7 sonucunun tahmin edildi\u011fi oyun t\u00fcr\u00fcd\u00fcr.",
+                    "type": "Kim Kazan\u0131r",
+                    "odds": [
+                        {
+                            "gameID": 1605037,
+                            "odd": 1.09,
+                            "value": "2"
+                        },
+                        {
+                            "gameID": 1605037,
+                            "odd": 5.11,
+                            "value": "1"
+                        },
+                        {
+                            "gameID": 1605037,
+                            "odd": 4.12,
+                            "value": "0"
+                        }
+                    ]
+                },
+                {
+                    "gameID": 1605038,
+                    "matchID": 48747,
+                    "gameName": "\u0130lk Yar\u0131 \u00c7ifte \u015eans",
+                    "gameDetails": "Hangi tak\u0131m\u0131n ma\u00e7\u0131n ilk yar\u0131s\u0131ndan galibiyet veya beraberlikle ayr\u0131laca\u011f\u0131n\u0131n tahmin edildi\u011fi oyun t\u00fcr\u00fcd\u00fcr.",
+                    "type": "Kim Kazan\u0131r",
+                    "odds": [
+                        {
+                            "gameID": 1605038,
+                            "odd": 1.32,
+                            "value": "0 ve 2"
+                        },
+                        {
+                            "gameID": 1605038,
+                            "odd": 1.38,
+                            "value": "1 ve 2"
+                        },
+                        {
+                            "gameID": 1605038,
+                            "odd": 1.17,
+                            "value": "1 ve 0"
+                        }
+                    ]
+                },
+                {
+                    "gameID": 1605039,
+                    "matchID": 48747,
+                    "gameName": "Ev Sahibi \u0130lk Yar\u0131 Alt\u0131\/\u00dcst\u00fc 0.5",
+                    "gameDetails": "Ev sahibi tak\u0131m\u0131n ilk yar\u0131da ataca\u011f\u0131 gole y\u00f6nelik oynanan markettir.",
+                    "type": "Alt\/\u00dcst",
+                    "odds": [
+                        {
+                            "gameID": 1605039,
+                            "odd": 1.64,
+                            "value": "\u00dcst"
+                        },
+                        {
+                            "gameID": 1605039,
+                            "odd": 1.92,
+                            "value": "Alt"
+                        }
+                    ]
+                },
+                {
+                    "gameID": 1605040,
+                    "matchID": 48747,
+                    "gameName": "Ev Sahibi Alt\/\u00dcst 1.5",
+                    "gameDetails": "Kar\u015f\u0131la\u015fmada ev sahibi tak\u0131m\u0131n toplam gol say\u0131s\u0131n\u0131n tahmin edildi\u011fi oyun t\u00fcr\u00fcd\u00fcr.",
+                    "type": "Alt\/\u00dcst",
+                    "odds": [
+                        {
+                            "gameID": 1605040,
+                            "odd": 1.68,
+                            "value": "\u00dcst"
+                        },
+                        {
+                            "gameID": 1605040,
+                            "odd": 1.86,
+                            "value": "Alt"
+                        }
+                    ]
+                },
+                {
+                    "gameID": 1605041,
+                    "matchID": 48747,
+                    "gameName": "Handikapl\u0131 Ma\u00e7 Sonucu 1",
+                    "gameDetails": "Tak\u0131mlardan birinin say\u0131s\u0131 belirlenen kadar golle ma\u00e7a \u00f6nde ba\u015flad\u0131\u011f\u0131 say\u0131l\u0131r. Bu durum g\u00f6z \u00f6n\u00fcnde bulundurularak ma\u00e7 sonucunun tahmin edildi\u011fi oyun t\u00fcr\u00fcd\u00fcr.",
+                    "type": "Kim Kazan\u0131r",
+                    "odds": [
+                        {
+                            "gameID": 1605041,
+                            "odd": 4.58,
+                            "value": "2"
+                        },
+                        {
+                            "gameID": 1605041,
+                            "odd": 3.74,
+                            "value": "0"
+                        },
+                        {
+                            "gameID": 1605041,
+                            "odd": 1.15,
+                            "value": "1"
+                        }
+                    ]
+                },
+                {
+                    "gameID": 1605042,
+                    "matchID": 48747,
+                    "gameName": "Ma\u00e7 Skoru",
+                    "gameDetails": "Ma\u00e7 skorunun tahmin edildi\u011fi oyun t\u00fcr\u00fcd\u00fcr. Di\u011fer se\u00e7ene\u011fi, ma\u00e7 skoru i\u00e7in a\u00e7\u0131lan bahisler i\u00e7erisinde yer almayan t\u00fcm skorlar\u0131 kapsar. Ayn\u0131 zamanda taraflar\u0131n toplamda 7 ve \u00fczeri gole ula\u015faca\u011f\u0131n\u0131 ifade eder.",
+                    "type": "Skor",
+                    "odds": [
+                        {
+                            "gameID": 1605042,
+                            "odd": 16.4,
+                            "value": "di\u011fer"
+                        },
+                        {
+                            "gameID": 1605042,
+                            "odd": 140,
+                            "value": "Dep 6:0"
+                        },
+                        {
+                            "gameID": 1605042,
+                            "odd": 140,
+                            "value": "Dep 5:1"
+                        },
+                        {
+                            "gameID": 1605042,
+                            "odd": 140,
+                            "value": "Dep 5:0"
+                        },
+                        {
+                            "gameID": 1605042,
+                            "odd": 68,
+                            "value": "Dep 4:2"
+                        },
+                        {
+                            "gameID": 1605042,
+                            "odd": 60,
+                            "value": "Dep 4:1"
+                        },
+                        {
+                            "gameID": 1605042,
+                            "odd": 105,
+                            "value": "Dep 4:0"
+                        },
+                        {
+                            "gameID": 1605042,
+                            "odd": 21.05,
+                            "value": "Dep 3:1"
+                        },
+                        {
+                            "gameID": 1605042,
+                            "odd": 23.7,
+                            "value": "Dep 3:2"
+                        },
+                        {
+                            "gameID": 1605042,
+                            "odd": 37,
+                            "value": "Dep 3:0"
+                        },
+                        {
+                            "gameID": 1605042,
+                            "odd": 9.86,
+                            "value": "Dep 2:1"
+                        },
+                        {
+                            "gameID": 1605042,
+                            "odd": 17.35,
+                            "value": "Dep 2:0"
+                        },
+                        {
+                            "gameID": 1605042,
+                            "odd": 12.15,
+                            "value": "Dep 1:0"
+                        },
+                        {
+                            "gameID": 1605042,
+                            "odd": 14.15,
+                            "value": "0:0"
+                        },
+                        {
+                            "gameID": 1605042,
+                            "odd": 36,
+                            "value": "3:3"
+                        },
+                        {
+                            "gameID": 1605042,
+                            "odd": 9.95,
+                            "value": "2:2"
+                        },
+                        {
+                            "gameID": 1605042,
+                            "odd": 18.45,
+                            "value": "Ev 3:2"
+                        },
+                        {
+                            "gameID": 1605042,
+                            "odd": 6.24,
+                            "value": "1:1"
+                        },
+                        {
+                            "gameID": 1605042,
+                            "odd": 140,
+                            "value": "Ev 6:0"
+                        },
+                        {
+                            "gameID": 1605042,
+                            "odd": 80,
+                            "value": "Ev 5:1"
+                        },
+                        {
+                            "gameID": 1605042,
+                            "odd": 110,
+                            "value": "Ev 5:0"
+                        },
+                        {
+                            "gameID": 1605042,
+                            "odd": 29,
+                            "value": "Ev 4:1"
+                        },
+                        {
+                            "gameID": 1605042,
+                            "odd": 41.5,
+                            "value": "Ev 4:2"
+                        },
+                        {
+                            "gameID": 1605042,
+                            "odd": 39.5,
+                            "value": "Ev 4:0"
+                        },
+                        {
+                            "gameID": 1605042,
+                            "odd": 12.9,
+                            "value": "Ev 3:1"
+                        },
+                        {
+                            "gameID": 1605042,
+                            "odd": 17.8,
+                            "value": "Ev 3:0"
+                        },
+                        {
+                            "gameID": 1605042,
+                            "odd": 7.75,
+                            "value": "Ev 2:1"
+                        },
+                        {
+                            "gameID": 1605042,
+                            "odd": 10.65,
+                            "value": "Ev 2:0"
+                        },
+                        {
+                            "gameID": 1605042,
+                            "odd": 9.49,
+                            "value": "Ev 1:0"
+                        }
+                    ]
+                },
+                {
+                    "gameID": 1605043,
+                    "matchID": 48747,
+                    "gameName": "Ev Sahibi Her \u0130ki Yar\u0131y\u0131 Kazan\u0131r",
+                    "gameDetails": "Ev sahibi ekibin her iki yar\u0131y\u0131 da kazan\u0131p kazanamayaca\u011f\u0131na y\u00f6nelik tahmin yap\u0131lan oyun t\u00fcr\u00fcd\u00fcr.",
+                    "type": "Kim Kazan\u0131r,Di\u011fer",
+                    "odds": [
+                        {
+                            "gameID": 1605043,
+                            "odd": null,
+                            "value": "Hay\u0131r"
+                        },
+                        {
+                            "gameID": 1605043,
+                            "odd": 5.85,
+                            "value": "Evet"
+                        }
+                    ]
+                },
+                {
+                    "gameID": 1605044,
+                    "matchID": 48747,
+                    "gameName": "Deplasman Gol Yemeden Kazan\u0131r",
+                    "gameDetails": "Deplasman ekibinin kar\u015f\u0131la\u015fmay\u0131 gol yemeden kazan\u0131p kazanamayaca\u011f\u0131n\u0131n tahmin edildi\u011fi oyun t\u00fcr\u00fcd\u00fcr.",
+                    "type": "Goller,Di\u011fer",
+                    "odds": [
+                        {
+                            "gameID": 1605044,
+                            "odd": 4.4,
+                            "value": "Evet"
+                        },
+                        {
+                            "gameID": 1605044,
+                            "odd": null,
+                            "value": "Hay\u0131r"
+                        }
+                    ]
+                },
+                {
+                    "gameID": 1605045,
+                    "matchID": 48747,
+                    "gameName": "Her \u0130ki Yar\u0131da da Alt 1.5",
+                    "gameDetails": "Kar\u015f\u0131la\u015fman\u0131n her iki yar\u0131s\u0131nda da belirlenen say\u0131dan daha fazla gol olup olmayaca\u011f\u0131n\u0131n tahmin edildi\u011fi oyun t\u00fcr\u00fcd\u00fcr.",
+                    "type": "Di\u011fer",
+                    "odds": [
+                        {
+                            "gameID": 1605045,
+                            "odd": 1.25,
+                            "value": "Hay\u0131r"
+                        },
+                        {
+                            "gameID": 1605045,
+                            "odd": 3.01,
+                            "value": "Evet"
+                        }
+                    ]
+                },
+                {
+                    "gameID": 1605046,
+                    "matchID": 48747,
+                    "gameName": "Deplasman Alt\/\u00dcst 0.5",
+                    "gameDetails": "Kar\u015f\u0131la\u015fmada deplasman tak\u0131m\u0131n\u0131n toplam gol say\u0131s\u0131n\u0131n tahmin edildi\u011fi oyun t\u00fcr\u00fcd\u00fcr.",
+                    "type": "Alt\/\u00dcst",
+                    "odds": [
+                        {
+                            "gameID": 1605046,
+                            "odd": 1.2,
+                            "value": "\u00dcst"
+                        },
+                        {
+                            "gameID": 1605046,
+                            "odd": 3.39,
+                            "value": "Alt"
+                        }
+                    ]
+                },
+                {
+                    "gameID": 1605047,
+                    "matchID": 48747,
+                    "gameName": "Hangi Tak\u0131m Ka\u00e7 Farkla Kazan\u0131r?",
+                    "gameDetails": "Ev sahibi veya misafir tak\u0131m\u0131n kar\u015f\u0131la\u015fmay\u0131 ka\u00e7 gol farkla kazanaca\u011f\u0131n\u0131n tahmin edildi\u011fi oyun t\u00fcr\u00fcd\u00fcr.",
+                    "type": "Kim Kazan\u0131r",
+                    "odds": [
+                        {
+                            "gameID": 1605047,
+                            "odd": 3.38,
+                            "value": "0"
+                        },
+                        {
+                            "gameID": 1605047,
+                            "odd": 18.05,
+                            "value": "Dep 3+"
+                        },
+                        {
+                            "gameID": 1605047,
+                            "odd": 6.12,
+                            "value": "Ev 2"
+                        },
+                        {
+                            "gameID": 1605047,
+                            "odd": 10,
+                            "value": "Dep 2"
+                        },
+                        {
+                            "gameID": 1605047,
+                            "odd": 5.2,
+                            "value": "Dep 1"
+                        },
+                        {
+                            "gameID": 1605047,
+                            "odd": 4.07,
+                            "value": "Ev 1"
+                        },
+                        {
+                            "gameID": 1605047,
+                            "odd": 7.71,
+                            "value": "Ev 3+"
+                        }
+                    ]
+                },
+                {
+                    "gameID": 1605048,
+                    "matchID": 48747,
+                    "gameName": "Ma\u00e7 Sonucu ve Alt\/\u00dcst 3.5",
+                    "gameDetails": "Kar\u015f\u0131la\u015fmay\u0131 hangi tak\u0131m\u0131n kazanaca\u011f\u0131n\u0131n ve gol bahislerinin tahmin edildi\u011fi oyun t\u00fcr\u00fcd\u00fcr.",
+                    "type": "Kim Kazan\u0131r,Alt\/\u00dcst,Kombo",
+                    "odds": [
+                        {
+                            "gameID": 1605048,
+                            "odd": 8.66,
+                            "value": "0 ve \u00dcst"
+                        },
+                        {
+                            "gameID": 1605048,
+                            "odd": 4.29,
+                            "value": "1 ve \u00dcst"
+                        },
+                        {
+                            "gameID": 1605048,
+                            "odd": 4.38,
+                            "value": "2 ve Alt"
+                        },
+                        {
+                            "gameID": 1605048,
+                            "odd": 7.4,
+                            "value": "2 ve \u00dcst"
+                        },
+                        {
+                            "gameID": 1605048,
+                            "odd": 4.99,
+                            "value": "0 ve Alt"
+                        },
+                        {
+                            "gameID": 1605048,
+                            "odd": 3.09,
+                            "value": "1 ve Alt"
+                        }
+                    ]
+                },
+                {
+                    "gameID": 1605049,
+                    "matchID": 48747,
+                    "gameName": "Alt\/\u00dcst 0.5",
+                    "gameDetails": "Kar\u015f\u0131la\u015fmada at\u0131lacak toplam gol\u00fcn tahmin edildi\u011fi oyun t\u00fcr\u00fcd\u00fcr.",
+                    "type": "Alt\/\u00dcst",
+                    "odds": [
+                        {
+                            "gameID": 1605049,
+                            "odd": null,
+                            "value": "\u00dcst"
+                        },
+                        {
+                            "gameID": 1605049,
+                            "odd": 12.75,
+                            "value": "Alt"
+                        }
+                    ]
+                },
+                {
+                    "gameID": 1605050,
+                    "matchID": 48747,
+                    "gameName": "Ma\u00e7 Sonucu ve Kar\u015f\u0131l\u0131kl\u0131 Gol",
+                    "gameDetails": "Hem kar\u015f\u0131la\u015fman\u0131n nas\u0131l sonu\u00e7lanaca\u011f\u0131n\u0131n, hem de kar\u015f\u0131la\u015fmada her iki tak\u0131m\u0131n da gol at\u0131p atamayaca\u011f\u0131n\u0131n tahmin edildi\u011fi oyun t\u00fcr\u00fcd\u00fcr.",
+                    "type": "Alt\/\u00dcst,Kombo,Goller",
+                    "odds": [
+                        {
+                            "gameID": 1605050,
+                            "odd": 6.49,
+                            "value": "2 ve Yok"
+                        },
+                        {
+                            "gameID": 1605050,
+                            "odd": 3.96,
+                            "value": "0 ve Var"
+                        },
+                        {
+                            "gameID": 1605050,
+                            "odd": 4.76,
+                            "value": "2 ve Var"
+                        },
+                        {
+                            "gameID": 1605050,
+                            "odd": 16.25,
+                            "value": "0 ve Yok"
+                        },
+                        {
+                            "gameID": 1605050,
+                            "odd": 4.02,
+                            "value": "1 ve Yok"
+                        },
+                        {
+                            "gameID": 1605050,
+                            "odd": 3.23,
+                            "value": "1 ve Var"
+                        }
+                    ]
+                },
+                {
+                    "gameID": 1605051,
+                    "matchID": 48747,
+                    "gameName": "Tek \/ \u00c7ift",
+                    "gameDetails": "Kar\u015f\u0131la\u015fmada at\u0131lacak toplam gol say\u0131s\u0131n\u0131n tek veya \u00e7ift olaca\u011f\u0131n\u0131n tahmin edildi\u011fi oyun t\u00fcr\u00fcd\u00fcr.",
+                    "type": "Goller",
+                    "odds": [
+                        {
+                            "gameID": 1605051,
+                            "odd": 1.72,
+                            "value": "\u00c7ift"
+                        },
+                        {
+                            "gameID": 1605051,
+                            "odd": 1.82,
+                            "value": "Tek"
+                        }
+                    ]
+                },
+                {
+                    "gameID": 1605052,
+                    "matchID": 48747,
+                    "gameName": "\u0130lk Yar\u0131 Tek\/\u00c7ift",
+                    "gameDetails": "\u0130lk yar\u0131 skoru toplam\u0131n\u0131n tek mi yoksa \u00e7ift mi olaca\u011f\u0131n\u0131n tahmin edildi\u011fi oyun t\u00fcr\u00fcd\u00fcr.",
+                    "type": "Di\u011fer",
+                    "odds": [
+                        {
+                            "gameID": 1605052,
+                            "odd": 1.66,
+                            "value": "\u00c7ift"
+                        },
+                        {
+                            "gameID": 1605052,
+                            "odd": 1.9,
+                            "value": "Tek"
+                        }
+                    ]
+                },
+                {
+                    "gameID": 1605053,
+                    "matchID": 48747,
+                    "gameName": "\u0130kinci Yar\u0131 Kar\u015f\u0131l\u0131kl\u0131 Gol",
+                    "gameDetails": "Futbolda ikinci yar\u0131 i\u00e7erisindeki 45 dakikal\u0131k s\u00fcre (ek olarak hakem taraf\u0131ndan kay\u0131p zaman i\u00e7in verilen uzatma dakikalar\u0131) i\u00e7erisinde her iki tak\u0131m\u0131n kar\u015f\u0131l\u0131kl\u0131 olarak gol at\u0131p atmayaca\u011f\u0131n\u0131n tahmin edildi\u011fi oyun t\u00fcr\u00fcd\u00fcr.",
+                    "type": "Di\u011fer",
+                    "odds": [
+                        {
+                            "gameID": 1605053,
+                            "odd": 1.33,
+                            "value": "Yok"
+                        },
+                        {
+                            "gameID": 1605053,
+                            "odd": 2.62,
+                            "value": "Var"
+                        }
+                    ]
+                },
+                {
+                    "gameID": 1605054,
+                    "matchID": 48747,
+                    "gameName": "\u0130kinci Yar\u0131 Sonucu",
+                    "gameDetails": "Kar\u015f\u0131la\u015fman\u0131n ilk yar\u0131 sonucunun berabere kabul edilip ikinci yar\u0131y\u0131 hangi tak\u0131m\u0131n kazanaca\u011f\u0131n\u0131n tahmin edildi\u011fi oyun t\u00fcr\u00fcd\u00fcr.",
+                    "type": "Kim Kazan\u0131r",
+                    "odds": [
+                        {
+                            "gameID": 1605054,
+                            "odd": 3.14,
+                            "value": "2"
+                        },
+                        {
+                            "gameID": 1605054,
+                            "odd": 2.69,
+                            "value": "0"
+                        },
+                        {
+                            "gameID": 1605054,
+                            "odd": 2.27,
+                            "value": "1"
+                        }
+                    ]
+                },
+                {
+                    "gameID": 1605055,
+                    "matchID": 48747,
+                    "gameName": "Deplasman Yar\u0131 Kazan\u0131r",
+                    "gameDetails": "Deplasman tak\u0131m\u0131n\u0131n ma\u00e7\u0131n birinci ya da ikinci yar\u0131s\u0131nda rakibinden daha fazla gol ataca\u011f\u0131n\u0131n tahmin edildi\u011fi oyun t\u00fcr\u00fcd\u00fcr. \u0130kinci yar\u0131 ba\u015flang\u0131c\u0131nda skor 0-0 say\u0131l\u0131r.",
+                    "type": "Di\u011fer",
+                    "odds": [
+                        {
+                            "gameID": 1605055,
+                            "odd": 1.67,
+                            "value": "Hay\u0131r"
+                        },
+                        {
+                            "gameID": 1605055,
+                            "odd": 1.89,
+                            "value": "Evet"
+                        }
+                    ]
+                },
+                {
+                    "gameID": 1605056,
+                    "matchID": 48747,
+                    "gameName": "Alt\/\u00dcst 2.5",
+                    "gameDetails": "Kar\u015f\u0131la\u015fmada at\u0131lacak toplam gol\u00fcn tahmin edildi\u011fi oyun t\u00fcr\u00fcd\u00fcr.",
+                    "type": "Alt\/\u00dcst",
+                    "odds": [
+                        {
+                            "gameID": 1605056,
+                            "odd": 1.47,
+                            "value": "\u00dcst"
+                        },
+                        {
+                            "gameID": 1605056,
+                            "odd": 2.22,
+                            "value": "Alt"
+                        }
+                    ]
+                },
+                {
+                    "gameID": 1605057,
+                    "matchID": 48747,
+                    "gameName": "Ma\u00e7 Sonucu ve Alt\/\u00dcst 4.5",
+                    "gameDetails": "Kar\u015f\u0131la\u015fmay\u0131 hangi tak\u0131m\u0131n kazanaca\u011f\u0131n\u0131n ve gol bahislerinin tahmin edildi\u011fi oyun t\u00fcr\u00fcd\u00fcr.",
+                    "type": "Kim Kazan\u0131r,Alt\/\u00dcst,Kombo",
+                    "odds": [
+                        {
+                            "gameID": 1605057,
+                            "odd": 35,
+                            "value": "0 ve \u00dcst"
+                        },
+                        {
+                            "gameID": 1605057,
+                            "odd": 11.35,
+                            "value": "2 ve \u00dcst"
+                        },
+                        {
+                            "gameID": 1605057,
+                            "odd": 6.68,
+                            "value": "1 ve \u00dcst"
+                        },
+                        {
+                            "gameID": 1605057,
+                            "odd": 3.62,
+                            "value": "2 ve Alt"
+                        },
+                        {
+                            "gameID": 1605057,
+                            "odd": 3.51,
+                            "value": "0 ve Alt"
+                        },
+                        {
+                            "gameID": 1605057,
+                            "odd": 2.46,
+                            "value": "1 ve Alt"
+                        }
+                    ]
+                },
+                {
+                    "gameID": 1605058,
+                    "matchID": 48747,
+                    "gameName": "\u0130lk Gol\u00fc Hangi Tak\u0131m Atar",
+                    "gameDetails": "Kar\u015f\u0131la\u015fmada ilk gol\u00fc hangi tak\u0131m\u0131n ataca\u011f\u0131n\u0131n tahmin edildi\u011fi oyun t\u00fcr\u00fcd\u00fcr.",
+                    "type": "Goller,Di\u011fer",
+                    "odds": [
+                        {
+                            "gameID": 1605058,
+                            "odd": 2.11,
+                            "value": "2"
+                        },
+                        {
+                            "gameID": 1605058,
+                            "odd": 17.65,
+                            "value": "Gol Olmaz"
+                        },
+                        {
+                            "gameID": 1605058,
+                            "odd": 1.67,
+                            "value": "1"
+                        }
+                    ]
+                },
+                {
+                    "gameID": 1605059,
+                    "matchID": 48747,
+                    "gameName": "Deplasman Alt\/\u00dcst 1.5",
+                    "gameDetails": "Kar\u015f\u0131la\u015fmada deplasman tak\u0131m\u0131n\u0131n toplam gol say\u0131s\u0131n\u0131n tahmin edildi\u011fi oyun t\u00fcr\u00fcd\u00fcr.",
+                    "type": "Alt\/\u00dcst",
+                    "odds": [
+                        {
+                            "gameID": 1605059,
+                            "odd": 2.18,
+                            "value": "\u00dcst"
+                        },
+                        {
+                            "gameID": 1605059,
+                            "odd": 1.49,
+                            "value": "Alt"
+                        }
+                    ]
+                },
+                {
+                    "gameID": 1605060,
+                    "matchID": 48747,
+                    "gameName": "\u0130lk Yar\u0131 Skoru",
+                    "gameDetails": "Kar\u015f\u0131la\u015fman\u0131n ilk yar\u0131 skorunun tahminine dayal\u0131 oyun t\u00fcr\u00fcd\u00fcr.",
+                    "type": "Kim Kazan\u0131r",
+                    "odds": [
+                        {
+                            "gameID": 1605060,
+                            "odd": 5.65,
+                            "value": "Dep 1:0"
+                        },
+                        {
+                            "gameID": 1605060,
+                            "odd": 18.15,
+                            "value": "Dep 2:0"
+                        },
+                        {
+                            "gameID": 1605060,
+                            "odd": 22.7,
+                            "value": "Dep 2:1"
+                        },
+                        {
+                            "gameID": 1605060,
+                            "odd": 11.9,
+                            "value": "di\u011fer"
+                        },
+                        {
+                            "gameID": 1605060,
+                            "odd": 17.6,
+                            "value": "Ev 2:1"
+                        },
+                        {
+                            "gameID": 1605060,
+                            "odd": 10.9,
+                            "value": "Ev 2:0"
+                        },
+                        {
+                            "gameID": 1605060,
+                            "odd": 4.4,
+                            "value": "Ev 1:0"
+                        },
+                        {
+                            "gameID": 1605060,
+                            "odd": 57,
+                            "value": "2:2"
+                        },
+                        {
+                            "gameID": 1605060,
+                            "odd": 7.07,
+                            "value": "1:1"
+                        },
+                        {
+                            "gameID": 1605060,
+                            "odd": 3.36,
+                            "value": "0:0"
+                        }
+                    ]
+                },
+                {
+                    "gameID": 1605061,
+                    "matchID": 48747,
+                    "gameName": "Her \u0130ki Yar\u0131da da \u00dcst 1.5",
+                    "gameDetails": "Kar\u015f\u0131la\u015fman\u0131n her iki yar\u0131s\u0131nda da belirlenen say\u0131dan daha fazla gol olup olmayaca\u011f\u0131n\u0131n tahmin edildi\u011fi oyun t\u00fcr\u00fcd\u00fcr.",
+                    "type": "Di\u011fer",
+                    "odds": [
+                        {
+                            "gameID": 1605061,
+                            "odd": 3.88,
+                            "value": "Evet"
+                        },
+                        {
+                            "gameID": 1605061,
+                            "odd": 1.15,
+                            "value": "Hay\u0131r"
+                        }
+                    ]
+                },
+                {
+                    "gameID": 1605062,
+                    "matchID": 48747,
+                    "gameName": "\u0130lk Yar\u0131 Kar\u015f\u0131l\u0131kl\u0131 Gol",
+                    "gameDetails": "Kar\u015f\u0131la\u015fman\u0131n \"ilk yar\u0131s\u0131nda\" her iki tak\u0131m\u0131n da gol bulmas\u0131na y\u00f6nelik tahmin yap\u0131lan oyun t\u00fcr\u00fcd\u00fcr.",
+                    "type": "Kim Kazan\u0131r,Goller",
+                    "odds": [
+                        {
+                            "gameID": 1605062,
+                            "odd": 1.2,
+                            "value": "Yok"
+                        },
+                        {
+                            "gameID": 1605062,
+                            "odd": 3.4,
+                            "value": "Var"
+                        }
+                    ]
+                },
+                {
+                    "gameID": 1605063,
+                    "matchID": 48747,
+                    "gameName": "Deplasman \u0130lk Yar\u0131 Alt\u0131\/\u00dcst\u00fc 0.5",
+                    "gameDetails": "Deplasman tak\u0131m\u0131n\u0131n ilk yar\u0131da ataca\u011f\u0131 gole y\u00f6nelik oynanan markettir.",
+                    "type": "Alt\/\u00dcst",
+                    "odds": [
+                        {
+                            "gameID": 1605063,
+                            "odd": 1.94,
+                            "value": "\u00dcst"
+                        },
+                        {
+                            "gameID": 1605063,
+                            "odd": 1.63,
+                            "value": "Alt"
+                        }
+                    ]
+                },
+                {
+                    "gameID": 1605064,
+                    "matchID": 48747,
+                    "gameName": "Ev Sahibi Alt\/\u00dcst 2.5",
+                    "gameDetails": "Kar\u015f\u0131la\u015fmada ev sahibi tak\u0131m\u0131n toplam gol say\u0131s\u0131n\u0131n tahmin edildi\u011fi oyun t\u00fcr\u00fcd\u00fcr.",
+                    "type": "Alt\/\u00dcst",
+                    "odds": [
+                        {
+                            "gameID": 1605064,
+                            "odd": 1.21,
+                            "value": "Alt"
+                        },
+                        {
+                            "gameID": 1605064,
+                            "odd": 3.29,
+                            "value": "\u00dcst"
+                        }
+                    ]
+                },
+                {
+                    "gameID": 1605065,
+                    "matchID": 48747,
+                    "gameName": "\u0130lk Yar\u0131 Alt\/\u00dcst 2.5",
+                    "gameDetails": "Kar\u015f\u0131la\u015fman\u0131n ilk yar\u0131s\u0131nda at\u0131lacak toplam gol\u00fcn tahmin edildi\u011fi oyun t\u00fcr\u00fcd\u00fcr.",
+                    "type": "Alt\/\u00dcst",
+                    "odds": [
+                        {
+                            "gameID": 1605065,
+                            "odd": 4.89,
+                            "value": "\u00dcst"
+                        },
+                        {
+                            "gameID": 1605065,
+                            "odd": 1.08,
+                            "value": "Alt"
+                        }
+                    ]
+                },
+                {
+                    "gameID": 1605066,
+                    "matchID": 48747,
+                    "gameName": "Ev Sahibi Hangi Yar\u0131da Daha Fazla Gol Atar",
+                    "gameDetails": "Ev sahibi ekibin kar\u015f\u0131la\u015fmada hangi yar\u0131da daha fazla gol ataca\u011f\u0131na y\u00f6nelik tahmin yap\u0131lan oyun t\u00fcr\u00fcd\u00fcr.",
+                    "type": "Goller",
+                    "odds": [
+                        {
+                            "gameID": 1605066,
+                            "odd": 2.3,
+                            "value": "2."
+                        },
+                        {
+                            "gameID": 1605066,
+                            "odd": 2.7,
+                            "value": "E\u015fit"
+                        },
+                        {
+                            "gameID": 1605066,
+                            "odd": 3.08,
+                            "value": "1."
+                        }
+                    ]
+                },
+                {
+                    "gameID": 1605067,
+                    "matchID": 48747,
+                    "gameName": "\u0130lk Yar\u0131 Sonucu",
+                    "gameDetails": "\u0130lk yar\u0131 sonucunun tahmin edildi\u011fi oyun t\u00fcr\u00fcd\u00fcr.",
+                    "type": "Kim Kazan\u0131r",
+                    "odds": [
+                        {
+                            "gameID": 1605067,
+                            "odd": 2.3,
+                            "value": "0"
+                        },
+                        {
+                            "gameID": 1605067,
+                            "odd": 3.47,
+                            "value": "2"
+                        },
+                        {
+                            "gameID": 1605067,
+                            "odd": 2.46,
+                            "value": "1"
+                        }
+                    ]
+                },
+                {
+                    "gameID": 1605068,
+                    "matchID": 48747,
+                    "gameName": "\u0130lk Yar\u0131 Alt\/\u00dcst 0.5",
+                    "gameDetails": "Kar\u015f\u0131la\u015fman\u0131n ilk yar\u0131s\u0131nda at\u0131lacak toplam gol\u00fcn tahmin edildi\u011fi oyun t\u00fcr\u00fcd\u00fcr.",
+                    "type": "Alt\/\u00dcst",
+                    "odds": [
+                        {
+                            "gameID": 1605068,
+                            "odd": 1.2,
+                            "value": "\u00dcst"
+                        },
+                        {
+                            "gameID": 1605068,
+                            "odd": 3.37,
+                            "value": "Alt"
+                        }
+                    ]
+                },
+                {
+                    "gameID": 1605069,
+                    "matchID": 48747,
+                    "gameName": "Hangi Yar\u0131da Daha Fazla Gol Olur",
+                    "gameDetails": "Kar\u015f\u0131la\u015fmada hangi yar\u0131da daha fazla gol \u00e7\u0131kaca\u011f\u0131na y\u00f6nelik tahmin yap\u0131lan oyun t\u00fcr\u00fcd\u00fcr.",
+                    "type": "Goller",
+                    "odds": [
+                        {
+                            "gameID": 1605069,
+                            "odd": 1.95,
+                            "value": "2."
+                        },
+                        {
+                            "gameID": 1605069,
+                            "odd": 3.62,
+                            "value": "E\u015fit"
+                        },
+                        {
+                            "gameID": 1605069,
+                            "odd": 2.93,
+                            "value": "1."
+                        }
+                    ]
+                },
+                {
+                    "gameID": 1605070,
+                    "matchID": 48747,
+                    "gameName": "Ma\u00e7 Sonucu ve Alt\/\u00dcst 2.5",
+                    "gameDetails": "Kar\u015f\u0131la\u015fmay\u0131 hangi tak\u0131m\u0131n kazanaca\u011f\u0131n\u0131n ve gol bahislerinin tahmin edildi\u011fi oyun t\u00fcr\u00fcd\u00fcr.",
+                    "type": "Kim Kazan\u0131r,Alt\/\u00dcst,Kombo",
+                    "odds": [
+                        {
+                            "gameID": 1605070,
+                            "odd": 4.12,
+                            "value": "2 ve \u00dcst"
+                        },
+                        {
+                            "gameID": 1605070,
+                            "odd": 8.63,
+                            "value": "0 ve \u00dcst"
+                        },
+                        {
+                            "gameID": 1605070,
+                            "odd": 2.6,
+                            "value": "1 ve \u00dcst"
+                        },
+                        {
+                            "gameID": 1605070,
+                            "odd": 8.24,
+                            "value": "2 ve Alt"
+                        },
+                        {
+                            "gameID": 1605070,
+                            "odd": 4.98,
+                            "value": "0 ve Alt"
+                        },
+                        {
+                            "gameID": 1605070,
+                            "odd": 5.8,
+                            "value": "1 ve Alt"
+                        }
+                    ]
+                },
+                {
+                    "gameID": 1605071,
+                    "matchID": 48747,
+                    "gameName": "Toplam Gol",
+                    "gameDetails": "Kar\u015f\u0131la\u015fman\u0131n toplamda ka\u00e7 gol aral\u0131\u011f\u0131nda bitece\u011fine y\u00f6nelik tahmin yap\u0131lan oyun t\u00fcr\u00fcd\u00fcr.",
+                    "type": "Goller",
+                    "odds": [
+                        {
+                            "gameID": 1605071,
+                            "odd": 8.32,
+                            "value": "6+ gol"
+                        },
+                        {
+                            "gameID": 1605071,
+                            "odd": 2.99,
+                            "value": "4-5 gol"
+                        },
+                        {
+                            "gameID": 1605071,
+                            "odd": 2.02,
+                            "value": "2-3 gol"
+                        },
+                        {
+                            "gameID": 1605071,
+                            "odd": 4.76,
+                            "value": "0-1 gol"
+                        }
+                    ]
+                },
+                {
+                    "gameID": 1605072,
+                    "matchID": 48747,
+                    "gameName": "Alt\u0131\/\u00dcst\u00fc 2.5 ve Kar\u015f\u0131l\u0131kl\u0131 Gol",
+                    "gameDetails": "Kar\u015f\u0131la\u015fmada hem at\u0131lacak toplam gol say\u0131s\u0131n\u0131n belirlenen say\u0131dan daha az veya daha fazla olaca\u011f\u0131n\u0131n, hem de kar\u015f\u0131l\u0131kl\u0131 gol olup olmayaca\u011f\u0131n\u0131n tahmininin yap\u0131ld\u0131\u011f\u0131 oyun t\u00fcr\u00fcd\u00fcr.",
+                    "type": "Kombo",
+                    "odds": [
+                        {
+                            "gameID": 1605072,
+                            "odd": 1.66,
+                            "value": "\u00dcst ve Var"
+                        },
+                        {
+                            "gameID": 1605072,
+                            "odd": 6.94,
+                            "value": "Alt ve Var"
+                        },
+                        {
+                            "gameID": 1605072,
+                            "odd": 8.57,
+                            "value": "\u00dcst ve Yok"
+                        },
+                        {
+                            "gameID": 1605072,
+                            "odd": 2.86,
+                            "value": "Alt ve Yok"
+                        }
+                    ]
+                },
+                {
+                    "gameID": 1605073,
+                    "matchID": 48747,
+                    "gameName": "Ma\u00e7 Sonucu ve Alt\/\u00dcst 1.5",
+                    "gameDetails": "Kar\u015f\u0131la\u015fmay\u0131 hangi tak\u0131m\u0131n kazanaca\u011f\u0131n\u0131n ve gol bahislerinin tahmin edildi\u011fi oyun t\u00fcr\u00fcd\u00fcr.",
+                    "type": "Kim Kazan\u0131r,Alt\/\u00dcst,Kombo",
+                    "odds": [
+                        {
+                            "gameID": 1605073,
+                            "odd": 3.42,
+                            "value": "2 ve \u00dcst"
+                        },
+                        {
+                            "gameID": 1605073,
+                            "odd": 2.18,
+                            "value": "1 ve \u00dcst"
+                        },
+                        {
+                            "gameID": 1605073,
+                            "odd": 13.65,
+                            "value": "2 ve Alt"
+                        },
+                        {
+                            "gameID": 1605073,
+                            "odd": 16,
+                            "value": "0 ve Alt"
+                        },
+                        {
+                            "gameID": 1605073,
+                            "odd": 3.92,
+                            "value": "0 ve \u00dcst"
+                        },
+                        {
+                            "gameID": 1605073,
+                            "odd": 10.7,
+                            "value": "1 ve Alt"
+                        }
+                    ]
+                },
+                {
+                    "gameID": 1629774,
+                    "matchID": 48747,
+                    "gameName": "Oyuncu Gol Atar",
+                    "gameDetails": "Ma\u00e7\u0131n normal s\u00fcresi i\u00e7erisinde hangi oyuncunun gol ataca\u011f\u0131n\u0131n tahmin edildi\u011fi oyun t\u00fcr\u00fcd\u00fcr. Kar\u015f\u0131la\u015fmaya \u00e7\u0131kmayan oyuncular \u00fczerine oynanan bahisler ge\u00e7ersiz olup oran bir (1.00) say\u0131lacakt\u0131r.",
+                    "type": "Goller,Oyuncu",
+                    "odds": [
+                        {
+                            "gameID": 1629774,
+                            "odd": 4.88,
+                            "value": "Zimmerschied, Tom"
+                        },
+                        {
+                            "gameID": 1629774,
+                            "odd": 11.85,
+                            "value": "Zobel, Tristan"
+                        },
+                        {
+                            "gameID": 1629774,
+                            "odd": null,
+                            "value": "Dragon, Patryk"
+                        },
+                        {
+                            "gameID": 1629774,
+                            "odd": 6.79,
+                            "value": "Zehnter, Aaron"
+                        },
+                        {
+                            "gameID": 1629774,
+                            "odd": 2.93,
+                            "value": "Terho, Casper"
+                        },
+                        {
+                            "gameID": 1629774,
+                            "odd": 3.55,
+                            "value": "Stock, Paul"
+                        },
+                        {
+                            "gameID": 1629774,
+                            "odd": 6.2,
+                            "value": "Schmahl, Julius Frederik"
+                        },
+                        {
+                            "gameID": 1629774,
+                            "odd": 4.76,
+                            "value": "Sickinger, Carlo"
+                        },
+                        {
+                            "gameID": 1629774,
+                            "odd": 8.9,
+                            "value": "Sicker, Arne"
+                        },
+                        {
+                            "gameID": 1629774,
+                            "odd": 2.92,
+                            "value": "Schnellbacher, Luca"
+                        },
+                        {
+                            "gameID": 1629774,
+                            "odd": 13.65,
+                            "value": "Scheller, Tjark Lasse"
+                        },
+                        {
+                            "gameID": 1629774,
+                            "odd": 4.95,
+                            "value": "Sahin, Semih"
+                        },
+                        {
+                            "gameID": 1629774,
+                            "odd": 12.3,
+                            "value": "Rohr, Maximilian"
+                        },
+                        {
+                            "gameID": 1629774,
+                            "odd": 2.34,
+                            "value": "Platte, Felix"
+                        },
+                        {
+                            "gameID": 1629774,
+                            "odd": 14.15,
+                            "value": "Pinckert, Lukas Finn"
+                        },
+                        {
+                            "gameID": 1629774,
+                            "odd": 4.77,
+                            "value": "Pledl, Marco"
+                        },
+                        {
+                            "gameID": 1629774,
+                            "odd": 5.84,
+                            "value": "Pantschenko, Daniel"
+                        },
+                        {
+                            "gameID": 1629774,
+                            "odd": 4.31,
+                            "value": "Petkov, Lukas"
+                        },
+                        {
+                            "gameID": 1629774,
+                            "odd": 3.42,
+                            "value": "Obermair, Raphael"
+                        },
+                        {
+                            "gameID": 1629774,
+                            "odd": 9.71,
+                            "value": "Neubauer, Maurice"
+                        },
+                        {
+                            "gameID": 1629774,
+                            "odd": 4.06,
+                            "value": "Nadj, Niclas Tibor"
+                        },
+                        {
+                            "gameID": 1629774,
+                            "odd": 2.59,
+                            "value": "Michel, Sven"
+                        },
+                        {
+                            "gameID": 1629774,
+                            "odd": 4.96,
+                            "value": "Mehlem, Marvin"
+                        },
+                        {
+                            "gameID": 1629774,
+                            "odd": 13.85,
+                            "value": "Le Joncour, Florian"
+                        },
+                        {
+                            "gameID": 1629774,
+                            "odd": 11.65,
+                            "value": "Larin Curda"
+                        },
+                        {
+                            "gameID": 1629774,
+                            "odd": 10.55,
+                            "value": "Krumme, Kevin"
+                        },
+                        {
+                            "gameID": 1629774,
+                            "odd": null,
+                            "value": "Kojic, Medin"
+                        },
+                        {
+                            "gameID": 1629774,
+                            "odd": 3.66,
+                            "value": "Klaas, Sebastian"
+                        },
+                        {
+                            "gameID": 1629774,
+                            "odd": 8.66,
+                            "value": "Jakel, Frederik"
+                        },
+                        {
+                            "gameID": 1629774,
+                            "odd": 12.1,
+                            "value": "Hoffmeier, Marcel"
+                        },
+                        {
+                            "gameID": 1629774,
+                            "odd": 4.2,
+                            "value": "Herrmann, Luca"
+                        },
+                        {
+                            "gameID": 1629774,
+                            "odd": 7.77,
+                            "value": "Hansen, Matt"
+                        },
+                        {
+                            "gameID": 1629774,
+                            "odd": 2.42,
+                            "value": "Grimaldi, Adriano"
+                        },
+                        {
+                            "gameID": 1629774,
+                            "odd": 8.15,
+                            "value": "Gotze, Felix"
+                        },
+                        {
+                            "gameID": 1629774,
+                            "odd": 3.62,
+                            "value": "Gerezgiher, Filimon"
+                        },
+                        {
+                            "gameID": 1629774,
+                            "odd": 6.31,
+                            "value": "Fellhauer, Robin"
+                        },
+                        {
+                            "gameID": 1629774,
+                            "odd": 4.25,
+                            "value": "Brandt, Jascha"
+                        },
+                        {
+                            "gameID": 1629774,
+                            "odd": 8.44,
+                            "value": "Ens, Martin"
+                        },
+                        {
+                            "gameID": 1629774,
+                            "odd": 3.82,
+                            "value": "Engelns, Luis"
+                        },
+                        {
+                            "gameID": 1629774,
+                            "odd": 4.57,
+                            "value": "Feil, Manuel"
+                        },
+                        {
+                            "gameID": 1629774,
+                            "odd": 6.8,
+                            "value": "Durholtz, Luca"
+                        },
+                        {
+                            "gameID": 1629774,
+                            "odd": 3.06,
+                            "value": "Ebnoutalib, Younes"
+                        },
+                        {
+                            "gameID": 1629774,
+                            "odd": 3.18,
+                            "value": "Damar, Muhammed"
+                        },
+                        {
+                            "gameID": 1629774,
+                            "odd": 5.7,
+                            "value": "Castaneda, Santiago"
+                        },
+                        {
+                            "gameID": 1629774,
+                            "odd": 9.57,
+                            "value": "Brackelmann, Calvin Marc"
+                        },
+                        {
+                            "gameID": 1629774,
+                            "odd": 2.63,
+                            "value": "Bilbija, Filip"
+                        },
+                        {
+                            "gameID": 1629774,
+                            "odd": 2.48,
+                            "value": "Asllani, Fisnik"
+                        },
+                        {
+                            "gameID": 1629774,
+                            "odd": 13.95,
+                            "value": "Baum, Elias"
+                        },
+                        {
+                            "gameID": 1629774,
+                            "odd": 9.2,
+                            "value": "Bauerle, Anton"
+                        },
+                        {
+                            "gameID": 1629774,
+                            "odd": 2.7,
+                            "value": "Ansah, Ilyas"
+                        }
+                    ]
+                },
+                {
+                    "gameID": 1642043,
+                    "matchID": 48747,
+                    "gameName": "Kim Daha \u00c7ok Korner Kullan\u0131r",
+                    "gameDetails": "Kar\u015f\u0131la\u015fman\u0131n normal s\u00fcresinde hangi ekibin daha \u00e7ok korner kullanaca\u011f\u0131n\u0131 tahmin etmeye y\u00f6nelik oyun t\u00fcr\u00fcd\u00fcr.",
+                    "type": "Korner\/Kart",
+                    "odds": [
+                        {
+                            "gameID": 1642043,
+                            "odd": 2.82,
+                            "value": "2"
+                        },
+                        {
+                            "gameID": 1642043,
+                            "odd": 1.45,
+                            "value": "1"
+                        },
+                        {
+                            "gameID": 1642043,
+                            "odd": 7.36,
+                            "value": "0"
+                        }
+                    ]
+                },
+                {
+                    "gameID": 1642045,
+                    "matchID": 48747,
+                    "gameName": "Toplam Korner Aral\u0131\u011f\u0131",
+                    "gameDetails": "Kar\u015f\u0131la\u015fmada her iki tak\u0131m\u0131n da kazand\u0131\u011f\u0131 toplam korner say\u0131s\u0131 aral\u0131\u011f\u0131n\u0131n tahmin edildi\u011fi oyun t\u00fcr\u00fcd\u00fcr.",
+                    "type": "Korner\/Kart",
+                    "odds": [
+                        {
+                            "gameID": 1642045,
+                            "odd": 2.7,
+                            "value": "9-11"
+                        },
+                        {
+                            "gameID": 1642045,
+                            "odd": 3.11,
+                            "value": "0-8"
+                        },
+                        {
+                            "gameID": 1642045,
+                            "odd": 2.24,
+                            "value": "12+"
+                        }
+                    ]
+                },
+                {
+                    "gameID": 1642047,
+                    "matchID": 48747,
+                    "gameName": "\u0130lk Yar\u0131 Kim Daha \u00c7ok Korner Kullan\u0131r",
+                    "gameDetails": "Kar\u015f\u0131la\u015fman\u0131n ilk yar\u0131s\u0131nda en fazla korneri hangi tak\u0131m\u0131n kullanaca\u011f\u0131na y\u00f6nelik tahmin yap\u0131lan oyun t\u00fcr\u00fcd\u00fcr.",
+                    "type": "Kim Kazan\u0131r,Korner\/Kart",
+                    "odds": [
+                        {
+                            "gameID": 1642047,
+                            "odd": 5.36,
+                            "value": "0"
+                        },
+                        {
+                            "gameID": 1642047,
+                            "odd": 2.76,
+                            "value": "2"
+                        },
+                        {
+                            "gameID": 1642047,
+                            "odd": 1.66,
+                            "value": "1"
+                        }
+                    ]
+                },
+                {
+                    "gameID": 1642048,
+                    "matchID": 48747,
+                    "gameName": "Korner Tek\/\u00c7ift",
+                    "gameDetails": "Bir ma\u00e7ta at\u0131lacak toplam korner say\u0131s\u0131n\u0131n tek mi \u00e7ift mi olaca\u011f\u0131n\u0131n tahmin edildi\u011fi oyun t\u00fcr\u00fcd\u00fcr.",
+                    "type": "Di\u011fer",
+                    "odds": [
+                        {
+                            "gameID": 1642048,
+                            "odd": 1.74,
+                            "value": "\u00c7ift"
+                        },
+                        {
+                            "gameID": 1642048,
+                            "odd": 1.73,
+                            "value": "Tek"
+                        }
+                    ]
+                },
+                {
+                    "gameID": 1642050,
+                    "matchID": 48747,
+                    "gameName": "\u0130lk Yar\u0131 Toplam Korner Say\u0131s\u0131 Alt\/\u00dcst 3.5",
+                    "gameDetails": "Kar\u015f\u0131la\u015fman\u0131n ilk yar\u0131s\u0131nda her iki tak\u0131m\u0131n da kazand\u0131\u011f\u0131 toplam korner at\u0131\u015f\u0131n\u0131n tahmin edildi\u011fi oyun t\u00fcr\u00fcd\u00fcr.",
+                    "type": "Alt\/\u00dcst,Korner\/Kart",
+                    "odds": [
+                        {
+                            "gameID": 1642050,
+                            "odd": 2.96,
+                            "value": "Alt"
+                        },
+                        {
+                            "gameID": 1642050,
+                            "odd": 1.22,
+                            "value": "\u00dcst"
+                        }
+                    ]
+                },
+                {
+                    "gameID": 1642052,
+                    "matchID": 48747,
+                    "gameName": "\u0130lk Yar\u0131 Toplam Korner Aral\u0131\u011f\u0131",
+                    "gameDetails": "Kar\u015f\u0131la\u015fman\u0131n ilk yar\u0131s\u0131nda her iki tak\u0131m\u0131n da kazand\u0131\u011f\u0131 toplam korner say\u0131s\u0131 aral\u0131\u011f\u0131n\u0131n tahmin edildi\u011fi oyun t\u00fcr\u00fcd\u00fcr.",
+                    "type": "Kim Kazan\u0131r,Korner\/Kart",
+                    "odds": [
+                        {
+                            "gameID": 1642052,
+                            "odd": 3.28,
+                            "value": "7+"
+                        },
+                        {
+                            "gameID": 1642052,
+                            "odd": 2.98,
+                            "value": "5-6"
+                        },
+                        {
+                            "gameID": 1642052,
+                            "odd": 2,
+                            "value": "0-4"
+                        }
+                    ]
+                },
+                {
+                    "gameID": 1642054,
+                    "matchID": 48747,
+                    "gameName": "Toplam Korner Say\u0131s\u0131 Alt\/\u00dcst 11.5",
+                    "gameDetails": "Kar\u015f\u0131la\u015fmada her iki tak\u0131m\u0131n da kazand\u0131\u011f\u0131 toplam korner at\u0131\u015f\u0131n\u0131n tahmin edildi\u011fi oyun t\u00fcr\u00fcd\u00fcr.",
+                    "type": "Korner\/Kart",
+                    "odds": [
+                        {
+                            "gameID": 1642054,
+                            "odd": 1.44,
+                            "value": "Alt"
+                        },
+                        {
+                            "gameID": 1642054,
+                            "odd": 2.17,
+                            "value": "\u00dcst"
+                        }
+                    ]
+                },
+                {
+                    "gameID": 1642055,
+                    "matchID": 48747,
+                    "gameName": "Toplam Korner Say\u0131s\u0131 Alt\/\u00dcst 9.5",
+                    "gameDetails": "Kar\u015f\u0131la\u015fmada her iki tak\u0131m\u0131n da kazand\u0131\u011f\u0131 toplam korner at\u0131\u015f\u0131n\u0131n tahmin edildi\u011fi oyun t\u00fcr\u00fcd\u00fcr.",
+                    "type": "Korner\/Kart",
+                    "odds": [
+                        {
+                            "gameID": 1642055,
+                            "odd": 1.44,
+                            "value": "\u00dcst"
+                        },
+                        {
+                            "gameID": 1642055,
+                            "odd": 2.2,
+                            "value": "Alt"
+                        }
+                    ]
+                },
+                {
+                    "gameID": 1642057,
+                    "matchID": 48747,
+                    "gameName": "\u0130lk Yar\u0131 Toplam Korner Say\u0131s\u0131 Alt\/\u00dcst 5.5",
+                    "gameDetails": "Kar\u015f\u0131la\u015fman\u0131n ilk yar\u0131s\u0131nda her iki tak\u0131m\u0131n da kazand\u0131\u011f\u0131 toplam korner at\u0131\u015f\u0131n\u0131n tahmin edildi\u011fi oyun t\u00fcr\u00fcd\u00fcr.",
+                    "type": "Alt\/\u00dcst,Korner\/Kart",
+                    "odds": [
+                        {
+                            "gameID": 1642057,
+                            "odd": 1.46,
+                            "value": "Alt"
+                        },
+                        {
+                            "gameID": 1642057,
+                            "odd": 2.14,
+                            "value": "\u00dcst"
+                        }
+                    ]
+                },
+                {
+                    "gameID": 1642059,
+                    "matchID": 48747,
+                    "gameName": "\u0130lk Yar\u0131 Toplam Korner Say\u0131s\u0131 Alt\/\u00dcst 4.5",
+                    "gameDetails": "Kar\u015f\u0131la\u015fman\u0131n ilk yar\u0131s\u0131nda her iki tak\u0131m\u0131n da kazand\u0131\u011f\u0131 toplam korner at\u0131\u015f\u0131n\u0131n tahmin edildi\u011fi oyun t\u00fcr\u00fcd\u00fcr.",
+                    "type": "Alt\/\u00dcst,Korner\/Kart",
+                    "odds": [
+                        {
+                            "gameID": 1642059,
+                            "odd": 1.56,
+                            "value": "\u00dcst"
+                        },
+                        {
+                            "gameID": 1642059,
+                            "odd": 1.95,
+                            "value": "Alt"
+                        }
+                    ]
+                },
+                {
+                    "gameID": 1642061,
+                    "matchID": 48747,
+                    "gameName": "\u0130lk Korneri Kim Kullan\u0131r",
+                    "gameDetails": "Kar\u015f\u0131la\u015fmada ilk korneri hangi tak\u0131m\u0131n kullanaca\u011f\u0131na y\u00f6nelik tahmin yap\u0131lan oyundur.",
+                    "type": "Korner\/Kart",
+                    "odds": [
+                        {
+                            "gameID": 1642061,
+                            "odd": 2.01,
+                            "value": "2"
+                        },
+                        {
+                            "gameID": 1642061,
+                            "odd": 27.5,
+                            "value": "Olmaz"
+                        },
+                        {
+                            "gameID": 1642061,
+                            "odd": 1.53,
+                            "value": "1"
+                        }
+                    ]
+                },
+                {
+                    "gameID": 1642063,
+                    "matchID": 48747,
+                    "gameName": "Toplam Korner Say\u0131s\u0131 Alt\/\u00dcst 10.5",
+                    "gameDetails": "Kar\u015f\u0131la\u015fmada her iki tak\u0131m\u0131n da kazand\u0131\u011f\u0131 toplam korner at\u0131\u015f\u0131n\u0131n tahmin edildi\u011fi oyun t\u00fcr\u00fcd\u00fcr.",
+                    "type": "Korner\/Kart",
+                    "odds": [
+                        {
+                            "gameID": 1642063,
+                            "odd": 1.74,
+                            "value": "Alt"
+                        },
+                        {
+                            "gameID": 1642063,
+                            "odd": 1.73,
+                            "value": "\u00dcst"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

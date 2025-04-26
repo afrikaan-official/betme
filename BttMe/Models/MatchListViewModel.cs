@@ -28,5 +28,15 @@ public class MatchViewModel
     public double? AwayWin { get; set; }
     public double? Under25 { get; set; }
     public double? Over25 { get; set; }
-    public double? Diff { get; set; }
+    public double? MostGoalsHalf1 { get; set; }
+    public double? MostGoalsHalf2 { get; set; }
+    public double? MostGoalsHalfDiff
+    {
+        get
+        {
+            return Math.Abs(MostGoalsHalf1.Value - MostGoalsHalf2.Value);
+        }
+    }
+    public double? FirstHalf1 { get; set; }
+    public double? FirstHalf2 { get; set; }
 }

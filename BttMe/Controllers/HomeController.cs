@@ -20,7 +20,7 @@ public class HomeController : Controller
 
     public async Task<IActionResult> Index()
     {
-        var response = await _httpClient.GetAsync($"bettable-matches");
+        var response = await _httpClient.GetAsync($"bettable-matches?type=1&date=2025-04-27");
         var matchData = await response.Content.ReadAsStringAsync();
 
         //var matchData = await System.IO.File.ReadAllTextAsync(Environment.CurrentDirectory + "/Data/matches.json");
@@ -42,7 +42,10 @@ public class HomeController : Controller
                 HomeWin = match.HomeWin,
                 Draw = match.Draw,
                 AwayWin = match.AwayWin,
-                Diff = result.First(x => x.Item1 == match.MatchID).Item2
+                MostGoalsHalf1 = result.First(x => x.Item1 == match.MatchID).Item2,
+                MostGoalsHalf2 = result.First(x => x.Item1 == match.MatchID).Item3,
+                FirstHalf1 = result.First(x => x.Item1 == match.MatchID).Item4,
+                FirstHalf2 = result.First(x => x.Item1 == match.MatchID).Item5,
             });
         }
 
@@ -139,8 +142,9 @@ public class HomeController : Controller
     }
 
 
-    private async Task<(int, double)> FetchMatchDetail(int matchId)
+    private async Task<(int, double, double, double, double)> FetchMatchDetail(int matchId)
     {
+        var fistHalfDict = new Dictionary<string, List<double>>();
         var response = await _httpClient.GetAsync($"bettable-matches/details?matchID={matchId}");
 
         var matchDetailData = await response.Content.ReadAsStringAsync();
@@ -178,18 +182,14 @@ public class HomeController : Controller
         var mostGoalsHalf2 = mostGoalsHalfOdds
             .FirstOrDefault(o => o.value == "2.");
 
-        if (firstHalfGoalsOdd1 != null)
+
+        if (firstHalfGoalsOdd1 != null && mostGoalsHalf1 != null)
         {
-            var fistHalfDiff = Math.Abs(firstHalfGoalsOdd1.odd.Value - firstHalfGoalsOdd2.odd.Value);
+
+            return (matchId, mostGoalsHalf1.odd.Value, mostGoalsHalf2.odd.Value, firstHalfGoalsOdd1.odd.Value, firstHalfGoalsOdd2.odd.Value);
         }
 
-        if (mostGoalsHalf1 != null)
-        {
-            var mostGoalHalfDiff = Math.Abs(mostGoalsHalf1.odd.Value - mostGoalsHalf2.odd.Value);
 
-            return (matchId, mostGoalHalfDiff);
-        }
-
-        return (matchId, 0);
+        return (matchId, 0, 0, 0, 0);
     }
 }
