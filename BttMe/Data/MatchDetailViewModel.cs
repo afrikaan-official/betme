@@ -13,4 +13,5 @@ public class MatchDetailViewModel
     public List<Odd> FirstHalfGoals { get; set; }
     public List<Odd> MostGoalHalf { get; set; }
     public double FirstHalfDiff { get; set; }
+    public double MostGoalHalfDiff { get; set; }
 }

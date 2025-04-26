@@ -8,7 +8,7 @@
 <div class="container">
     <h3>
         <span>
-            Ilk yari farki: @Model.FirstHalfDiff.ToString("F3")
+             Fark: @Model.MostGoalHalfDiff.ToString("F3")
         </span>
     </h3>
 </div>
@@ -36,13 +36,17 @@
                 -
                 <img class="league-flag" src="@Model.AwayIcon"/>@Model.Team2
             </td>
-            <td colspan="0">@Model.FirstHalfGoals[0].odd</td>
-            <td colspan="0">@Model.FirstHalfGoals[1].odd</td>
-            <td colspan="0">@Model.FirstHalfGoals[2].odd</td>
-
-            <td colspan="0">@Model.MostGoalHalf[0].odd</td>
-            <td colspan="0">@Model.MostGoalHalf[1].odd</td>
-        </tr>
-    }
+            @if (Model.FirstHalfDiff != 0)
+            {
+                <td colspan="0">@Model.FirstHalfGoals[0].odd</td>
+                <td colspan="0">@Model.FirstHalfGoals[1].odd</td>
+                <td colspan="0">@Model.FirstHalfGoals[2].odd</td>
+            }
+            @if (Model.MostGoalHalfDiff != 0)
+            {
+                <td colspan="0">@Model.MostGoalHalf[0].odd</td>
+                <td colspan="0">@Model.MostGoalHalf[1].odd</td>
+            }
+        </tr>}
     </tbody>
 </table>

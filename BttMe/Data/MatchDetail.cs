@@ -31,11 +31,11 @@ namespace BttMe.Data;
         public int GameResult { get; set; }
         public int LiveStatus { get; set; }
         public int BetCount { get; set; }
-        public double HomeWin { get; set; }
-        public double Draw { get; set; }
-        public double AwayWin { get; set; }
-        public double Under25 { get; set; }
-        public double Over25 { get; set; }
+        public double? HomeWin { get; set; }
+        public double? Draw { get; set; }
+        public double? AwayWin { get; set; }
+        public double? Under25 { get; set; }
+        public double? Over25 { get; set; }
         public List<string> gameType { get; set; }
         public List<Bet> Bets { get; set; }
     }

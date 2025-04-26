@@ -29,19 +29,18 @@ public class HomeController : Controller
     [HttpGet]
     public async Task<ViewResult> MatchDetail(int gameId)
     {
-        //var response = await _httpClient.GetAsync($"bettable-matches/details?matchID={gameId}");
+            var response = await _httpClient.GetAsync($"bettable-matches/details?matchID={gameId}");
 
-        //var matchDetailData = await response.Content.ReadAsStringAsync();
-        var matchDetailData = await System.IO.File.ReadAllTextAsync(Environment.CurrentDirectory + "/Data/detail.json");
+        var matchDetailData = await response.Content.ReadAsStringAsync();
+        //var matchDetailData = await System.IO.File.ReadAllTextAsync(Environment.CurrentDirectory + "/Data/detail.json");
         var md = JsonSerializer.Deserialize<MatchDetail>(matchDetailData);
         var model = md.data[0];
 
-        if (!model.Bets.Any(x => x.gameName == "Hangi Yarıda Daha Fazla Gol Olur"))
+        if (!model.Bets.Any(x => x.gameName == "Hangi Yarıda Daha Fazla Gol Olur") || !model.Bets.Any(x => x.gameName == "İlk Yarı Sonucu"))
         {
             return View("MatchDetail", new MatchDetailViewModel
             {
-                FirstHalfGoals = model.Bets.Where(x => x.gameName == "İlk Yarı Sonucu").Select(x => x.odds).ToList()
-                    .First(),
+                FirstHalfGoals =[],
                 MostGoalHalf = [],
                 Team1 = model.Team1,
                 Team2 = model.Team2,
@@ -49,7 +48,9 @@ public class HomeController : Controller
                 MatchId = model.MatchID,
                 HomeIcon = model.Team1Logo,
                 AwayIcon = model.Team2Logo,
-                IsValid = false
+                IsValid = false,
+                FirstHalfDiff = 0,
+                MostGoalHalfDiff = 0
             });
         }
 
@@ -77,6 +78,7 @@ public class HomeController : Controller
             .FirstOrDefault(o => o.value == "2.");
 
         var fistHalfDiff = Math.Abs(firstHalfGoalsOdd1.odd.Value - firstHalfGoalsOdd2.odd.Value);
+        var mostGoalHalfDiff = Math.Abs(mostGoalsHalf1.odd.Value - mostGoalsHalf2.odd.Value);
         
         var viewModel = new MatchDetailViewModel
         {
@@ -97,8 +99,9 @@ public class HomeController : Controller
             MatchId = model.MatchID,
             HomeIcon = model.Team1Logo,
             AwayIcon = model.Team2Logo,
-            IsValid = fistHalfDiff < 0.75 ? true : false,
-            FirstHalfDiff = fistHalfDiff
+            IsValid = mostGoalHalfDiff < 0.75 ? true : false,
+            FirstHalfDiff = fistHalfDiff,
+            MostGoalHalfDiff = mostGoalHalfDiff
         };
 
 
