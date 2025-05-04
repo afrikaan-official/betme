@@ -2,12 +2,23 @@ var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
 builder.Services.AddControllersWithViews();
-builder.Services.AddHttpClient("nosyapi",
+// builder.Services.AddHttpClient("nosyapi",
+//     client =>
+//     {
+//         client.BaseAddress = new Uri("https://www.nosyapi.com/apiv2/service/");
+//         client.DefaultRequestHeaders.Add("Authorization","Bearer OtMp3WiiotJCjHhUAdi2ma9kMZicohMdND9gDtcQ80W2iIIvtX6v29Hrabe3");
+//     });
+
+builder.Services.AddHttpClient("bilyoner",
     client =>
     {
-        client.BaseAddress = new Uri("https://www.nosyapi.com/apiv2/service/");
-        client.DefaultRequestHeaders.Add("Authorization","Bearer 2A8Xl1YcnEY0hYAHVnz8TMWkXCVyM7g6fmK0Q981BKR6P8oG8PGP2w3ePKOK");
+        //client.BaseAddress = new Uri("https://www.nosyapi.com/apiv2/service/");
+        //client.DefaultRequestHeaders.Add("Authorization","Bearer OtMp3WiiotJCjHhUAdi2ma9kMZicohMdND9gDtcQ80W2iIIvtX6v29Hrabe3");
     });
+
+
+
+
 
 
 var app = builder.Build();

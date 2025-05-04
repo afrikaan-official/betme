@@ -24,22 +24,23 @@
         {
             <tr>
                 <th scope="row">@m.MatchID</th>
-                <td>@m.DateTime</td>
+                <td>@m.Date</td>
                 <td class="match-name">
-                    <img class="league-flag" src="@m.LeagueFlag"/>
-                        @Html.ActionLink($"{m.Team1}-{m.Team2}", "MatchDetail", "Home", routeValues: new { gameId = m.MatchID })
+                    @m.MatchName
                 </td>
-                <td colspan="0">
-                    <button type="button"
-                            class="btn @(m.MostGoalsHalf1 == 0 ? string.Empty : (m.MostGoalsHalf1 < 2.70 ? "btn-success" : "btn-danger"))">@m.MostGoalsHalf1.Value.ToString("F2")</button>
+            <td>
+                <button type="button" class="btn @(m.MostGoalsHalf1 == 0 ? string.Empty : (m.MostGoalsHalf1 < 2.70 ? "btn-success" : "btn-danger"))">@m.MostGoalsHalf1.ToString("F2")</button>                </td>
+                <td>
+                    @m.MostGoalsHalf2
                 </td>
-                    <td colspan="0">@m.MostGoalsHalf2.Value.ToString("F2")</td>
-                <td colspan="0">
-                    <button type="button"
-                            class="btn @(m.MostGoalsHalfDiff == 0 ? string.Empty :  (m.MostGoalsHalfDiff < 0.75 ? "btn-success" : "btn-danger"))">@m.MostGoalsHalfDiff.Value.ToString("F2")</button>
+                <td>
+                    <button type="button" class="btn @(m.MostGoalsHalfDiff == 0 ? string.Empty :  (m.MostGoalsHalfDiff < 0.75 ? "btn-success" : "btn-danger"))">@m.MostGoalsHalfDiff.ToString("F2")</button>                </td>
+                <td>
+                    @m.FirstHalf1
                 </td>
-                <td colspan="0">@m.FirstHalf1.Value.ToString("F2")</td>
-                <td colspan="0">@m.FirstHalf2.Value.ToString("F2")</td>
+                <td>
+                    @m.FirstHalf2
+                </td>
             </tr>
         }
     }
